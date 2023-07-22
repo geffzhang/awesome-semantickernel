@@ -5,7 +5,7 @@
 
 Semantic kernel is an amazing framework to get LLM projects done in a matter of no time and the ecosystem is growing fast. Here is an attempt to keep track of the initiatives around semantic kernel.
 
-Contributions welcome. Add links through pull requests or create an issue to start a discussion. Please read the [contribution guidelines](contributing.md) before contributing.
+Contributions welcome. Add links through pull requests or create an issue to start a discussion. Please read the [contribution guidelines](contribution.md) before contributing.
 
 ## Table of Contents
 
