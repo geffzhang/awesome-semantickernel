@@ -75,7 +75,9 @@ and encourage developers to use them for their own applications. This hackathon 
 ### Videos
 
 ### Articles
-
+- [Empowering AI with Semantic Kernel Planners for Seamless Orchestration](https://medium.com/@akshaykokane09/empowering-ai-with-semantic-kernel-planners-for-seamless-orchestration-1c7ad35f2337)
+- [Unleashing the Power of Semantic Kernel and Azure Cognitive Search: A Step-by-Step Guide to Building Your Own ChatGPT-like App with Internal Data! — Part 1](https://medium.com/@akshaykokane09/how-to-build-custom-chatgpt-with-semantic-kernel-and-azure-cognitive-search-ef899afba0b9)
+- [Unleashing the Power of Semantic Kernel and Azure Cognitive Search: A Step-by-Step Guide to Building Your Own ChatGPT-like App with Internal Data!— Part 2](https://medium.com/@akshaykokane09/how-to-build-chatgpt-like-app-with-semantic-kernel-and-azure-cognitive-search-on-internal-data-814e4694decb)
 
 ## Complement to this list
 
