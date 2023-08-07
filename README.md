@@ -66,6 +66,8 @@ and encourage developers to use them for their own applications. This hackathon 
 - [Write a blog using Semantic Kernel](https://github.com/devedium/WriteABlog)
 - [Chat with your Enterprise Data: powered by Azure OpenAI/ChatGPT, Cognitive Search, and Bot Service](https://github.com/ronikurnia1/gpt-azure-botservice)
 - [Semantic Kernel Sidecar](https://github.com/raykao/semantic-kernel-sidecar) About A prototype for an abstracted Sidecar Process that runs/abstracts Semantic Kernel via HTTP/gRPC
+- [LangChain](https://github.com/tryAGI/LangChain): C# implementation of LangChain
+- [sk-researcher](https://github.com/craigomatic/sk-researcher): Using Semantic Kernel to power a research agent that will work on your behalf to research a topic
 
 
 ## Learn
