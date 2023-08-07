@@ -81,6 +81,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [Learn Azure OpenAI Service with .NET](https://github.com/kinfey/dotNETOAIBooks): This is a Azure OpenAI book for .NET Developer
 - [MSFabricCopilotWorkshop](https://github.com/kinfey/MSFabricCopilotWorkshop) : Building Microsoft Fabric Copilot App Workshop
 - [Semantic Kernel OpenAPI Skill Sample Project](https://github.com/mbenachour/semantic-kernel-course) This is a sample project to demonstrate the Semantic Kernel OpenAPI skill. It consists of a clothing API, which is a Swagger API, and a Copilot chat app.
+- [openai-sk-demos](https://github.com/msalemor/openai-sk-demos) Semantic Kernel Demos
 
 ### Videos
 
