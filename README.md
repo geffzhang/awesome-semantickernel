@@ -46,6 +46,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [NL2EF](https://github.com/anthonypuppo/sk-nl2ef-plugin) A Semantic Kernel plugin designed to be a drop-in service that can expose an existing database to be queried via natural language
 - [Packages, Examples and Demo code for Semantic Kernel](https://github.com/thinktecture/SemanticKernel)
 - [sk-ethereumtx-plugin](https://github.com/sustia-llc/sk-ethereumtx-plugin) Semantic Kernel ChatGPT plugin for Ethereum Txs
+- [Webscraper AIplugin](https://github.com/craigomatic/webscraper-aiplugin): AI Plugin that can be used to scrape useful information from a given URL
 
 
 ## Open Source Projects
