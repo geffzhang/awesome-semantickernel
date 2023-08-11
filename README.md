@@ -108,4 +108,4 @@ and encourage developers to use them for their own applications. This hackathon 
 
 [![Stargazers over time](https://starchart.cc/microsoft/semantic-kernel.svg)](https://starchart.cc/microsoft/semantic-kernel)
 
-
+[![OSSInsight.io]( http://OSSInsight.io)](https://ossinsight.io/analyze/microsoft/semantic-kernel?vs=langchain-ai%2Flangchain#overview)
