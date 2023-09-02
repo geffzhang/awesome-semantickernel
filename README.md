@@ -106,6 +106,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [Semantic Kernel Planner 101](https://blog.baeke.info/2023/06/01/semantic-kernel-planner-101/)
 - [Running Large Language Models locally – Your own ChatGPT-like AI in C#](https://blog.maartenballiauw.be/post/2023/06/15/running-large-language-models-locally-your-own-chatgpt-like-ai-in-csharp.html)
 - [GUEST POST: Getting Started with Semantic Kernel for LangChain users](https://devblogs.microsoft.com/semantic-kernel/getting-started-with-semantic-kernel-for-langchain-users/)
+- [Create Semantic Kernel code & skills to build AI-powered apps with .NET](https://labs.thinktecture.com/create-semantic-kernel-code-skills-to-build-ai-powered-apps-with-net/)
 - [Using (Azure) Open AI Models with Semantic Kernel behind a reverse proxy](https://labs.thinktecture.com/using-azure-open-ai-models-with-semantic-kernel-behind-a-proxy/)
 
 ## Complement to this list
