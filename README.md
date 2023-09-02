@@ -32,6 +32,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [gosk](https://github.com/mfmayer/gosk) Go Semantic Kernel (gosk) adapts Microsoft's Semantic Kernel (C#, Python) to provide OpenAI API integration for Golang developers
 - [Semantic Kernel vs LangChain](https://github.com/formulahendry/semantic-kernel-vs-langchain) Compare Semantic Kernel and LangChai
 - [Explore the Power of AI with SKPlayground](https://skplayground.dev/)
+- [SK release](https://github.com/microsoft/semantic-kernel/releases) SK release notes
 
 ## Plugins
 Plugins are at the heart of unlocking more potential with your [Semantic Kernel](https://github.com/microsoft/semantic-kernel) applications. They allow you to connect to external data sources and give large language models tools to be able to interact with native functions and API services.
@@ -117,6 +118,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [Using (Azure) Open AI Models with Semantic Kernel behind a reverse proxy](https://labs.thinktecture.com/using-azure-open-ai-models-with-semantic-kernel-behind-a-proxy/)
 - [Semantic Kernel and Weaviate: Orchestrating interactions around LLMs with long-term memory](https://devblogs.microsoft.com/semantic-kernel/guest-post-semantic-kernel-and-weaviate-orchestrating-interactions-around-llms-with-long-term-memory/)
 - [Unlock the Power of Telemetry in Semantic Kernel SDK](https://devblogs.microsoft.com/semantic-kernel/unlock-the-power-of-telemetry-in-semantic-kernel-sdk/)
+- [Track Your Token Usage and Costs with Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/track-your-token-usage-and-costs-with-semantic-kernel/)
 
 ## Complement to this list
 
