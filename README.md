@@ -80,6 +80,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [Semantic Kernel From Config](https://github.com/matthewbolanos/semantic-kernel-from-config) Provides an example of how you could extend Semantic Kernel to support config files for agents and plugins
 - [GPTMeetingAgent](https://github.com/NetCoreApps/GPTMeetingAgent) A pattern for GPT Agent integration with ServiceStack services
 - [SemanticKernel.PowerFx](https://github.com/jorisdg/SemanticKernel.PowerFx) Add low-code skills to Semantic Kernel using Power Fx
+- [SemanticNativeFunctions](https://github.com/RobertEichenseer/OpenAI.SemanticNativeFunctions) Chaining native & semantic functions using MS Semantic Kernel
 
 
 ## Learn
