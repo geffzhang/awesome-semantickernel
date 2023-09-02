@@ -82,8 +82,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [GPTMeetingAgent](https://github.com/NetCoreApps/GPTMeetingAgent) A pattern for GPT Agent integration with ServiceStack services
 - [SemanticKernel.PowerFx](https://github.com/jorisdg/SemanticKernel.PowerFx) Add low-code skills to Semantic Kernel using Power Fx
 - [SemanticNativeFunctions](https://github.com/RobertEichenseer/OpenAI.SemanticNativeFunctions) Chaining native & semantic functions using MS Semantic Kernel
-
-
+- [PowerPlatformCopilot](https://github.com/petrochuk/PowerPlatformCopilot) A .Net library which simplifies creation of Copilots/AI Assistants for Microsoft Power Platform with Azure OpenAI
 ## Learn
 
 ### Notebooks
