@@ -104,6 +104,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [Building Skills with Semantic Kernel](https://www.linkedin.com/learning/building-skills-with-semantic-kernel)
 - [Kernel Basics, Semantic Skills, and Embeddings | Intro to Semantic Kernel](https://www.youtube.com/watch?v=dAiER2OCH58)
 - [08.16.2023 - Semantic Kernel Office Hours](https://www.youtube.com/watch?v=XUyN2p-IkvE)
+- [08.30.2023 - Semantic Kernel Office Hours](https://www.youtube.com/watch?v=m5ylH57Rq4Y)
 
 ### Articles
 - [Empowering AI with Semantic Kernel Planners for Seamless Orchestration](https://medium.com/@akshaykokane09/empowering-ai-with-semantic-kernel-planners-for-seamless-orchestration-1c7ad35f2337)
