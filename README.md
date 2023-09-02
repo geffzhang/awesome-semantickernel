@@ -84,6 +84,8 @@ and encourage developers to use them for their own applications. This hackathon 
 - [SemanticKernel.PowerFx](https://github.com/jorisdg/SemanticKernel.PowerFx) Add low-code skills to Semantic Kernel using Power Fx
 - [SemanticNativeFunctions](https://github.com/RobertEichenseer/OpenAI.SemanticNativeFunctions) Chaining native & semantic functions using MS Semantic Kernel
 - [PowerPlatformCopilot](https://github.com/petrochuk/PowerPlatformCopilot) A .Net library which simplifies creation of Copilots/AI Assistants for Microsoft Power Platform with Azure OpenAI
+- [Java Samples using Semantic Kernel](https://github.com/agoncal/agoncal-sample-semantic-kernel) These samples are used to test the Semantic Kernel with java
+- 
 ## Learn
 
 ### Notebooks
@@ -104,6 +106,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [Introducing Semantic Kernel: Building AI-Based Apps](https://www.linkedin.com/learning/introducing-semantic-kernel-building-ai-based-apps)
 - [Building Skills with Semantic Kernel](https://www.linkedin.com/learning/building-skills-with-semantic-kernel)
 - [Kernel Basics, Semantic Skills, and Embeddings | Intro to Semantic Kernel](https://www.youtube.com/watch?v=dAiER2OCH58)
+- [Building AI apps with Java and Semantic Kernel! | Intro to Semantic Kerne](https://www.youtube.com/watch?v=_l1R1f-YuoAl)
 - [08.16.2023 - Semantic Kernel Office Hours](https://www.youtube.com/watch?v=XUyN2p-IkvE)
 - [08.30.2023 - Semantic Kernel Office Hours](https://www.youtube.com/watch?v=m5ylH57Rq4Y)
 
@@ -117,6 +120,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [Create Semantic Kernel code & skills to build AI-powered apps with .NET](https://labs.thinktecture.com/create-semantic-kernel-code-skills-to-build-ai-powered-apps-with-net/)
 - [Using (Azure) Open AI Models with Semantic Kernel behind a reverse proxy](https://labs.thinktecture.com/using-azure-open-ai-models-with-semantic-kernel-behind-a-proxy/)
 - [Semantic Kernel and Weaviate: Orchestrating interactions around LLMs with long-term memory](https://devblogs.microsoft.com/semantic-kernel/guest-post-semantic-kernel-and-weaviate-orchestrating-interactions-around-llms-with-long-term-memory/)
+- [The Power of Persistent Memory with Semantic Kernel and Qdrant Vector Database](https://devblogs.microsoft.com/semantic-kernel/the-power-of-persistent-memory-with-semantic-kernel-and-qdrant-vector-database/)
 - [Unlock the Power of Telemetry in Semantic Kernel SDK](https://devblogs.microsoft.com/semantic-kernel/unlock-the-power-of-telemetry-in-semantic-kernel-sdk/)
 - [Track Your Token Usage and Costs with Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/track-your-token-usage-and-costs-with-semantic-kernel/)
 
