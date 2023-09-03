@@ -101,6 +101,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [openai-sk-demos](https://github.com/msalemor/openai-sk-demos) Semantic Kernel Demos
 - [SemanticKernelLearningLab](https://github.com/walidamro-msft/SemanticKernelLearningLab) This is a lab to learn Semantic Kernel and Azure Open AI Services
 - [Semantic-Kernel-Workshop](https://github.com/jogendrasinghgurjar/Semantic-Kernel-Workshop)
+- [semantic-kernel-quickstart](https://github.com/shuaihuadu/semantic-kernel-quickstar)
 
 ### Videos
 - [A Lightweight SDK for Integrating AI Models and Plugins](https://thedataexchange.media/semantic-kernel/amp/)
