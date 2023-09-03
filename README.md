@@ -86,7 +86,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [PowerPlatformCopilot](https://github.com/petrochuk/PowerPlatformCopilot) A .Net library which simplifies creation of Copilots/AI Assistants for Microsoft Power Platform with Azure OpenAI
 - [Java Samples using Semantic Kernel](https://github.com/agoncal/agoncal-sample-semantic-kernel) These samples are used to test the Semantic Kernel with java
 - [TextToVideo](https://github.com/Saby007/TextToVideo) This is an app to convert Text to Video using Azure Open AI and Dall-e in Python using Semantic Kernel.
-- 
+  
 ## Learn
 
 ### Notebooks
