@@ -68,7 +68,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [sk-ingest](https://github.com/craigomatic/sk-ingest): Small library to make it easier to BYO data for use with Semantic Kernel and LLMs 
 - [sk-classifier](https://github.com/craigomatic/sk-classifier): This small sample project shows how to perform basic classification on a series on prompts, against a pre-defined series of classifications using Semantic Kernel
 - [Using Semantic Kernel to Summarize Youtube Videos](https://github.com/RogerBarreto/sk-youtube-summarizer)
-- [semantic-kernel-LLamaSharp](https://github.com/xbotter/semantic-kernel-LLamaSharp) use LLamaSharp to implement the Completion and Embedding interfaces of the semantic kernel
+- [semantic-kernel-LLamaSharp](https://github.com/SciSharp/LLamaSharp) use LLamaSharp to implement the Completion and Embedding interfaces of the semantic kernel
 - [semantic-kernel-ERNIE-Bot](https://github.com/custouch/semantic-kernel-ERNIE-Bot): Semantic Kernel 集成文心千帆
 - [Elsa.SemanticKernel](https://github.com/rysweet/Elsa.SemanticKernel): SemanticKernel Activity Provider for Elsa Workflows
 - [Write a blog using Semantic Kernel](https://github.com/devedium/WriteABlog)
@@ -86,6 +86,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [PowerPlatformCopilot](https://github.com/petrochuk/PowerPlatformCopilot) A .Net library which simplifies creation of Copilots/AI Assistants for Microsoft Power Platform with Azure OpenAI
 - [Java Samples using Semantic Kernel](https://github.com/agoncal/agoncal-sample-semantic-kernel) These samples are used to test the Semantic Kernel with java
 - [TextToVideo](https://github.com/Saby007/TextToVideo) This is an app to convert Text to Video using Azure Open AI and Dall-e in Python using Semantic Kernel.
+- [](https://github.com/karlgodtliebsen/ai-playground) This repository is for learning about AI - OpenAI and related using dotnet
   
 ## Learn
 
