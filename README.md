@@ -70,6 +70,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [Using Semantic Kernel to Summarize Youtube Videos](https://github.com/RogerBarreto/sk-youtube-summarizer)
 - [semantic-kernel-LLamaSharp](https://github.com/SciSharp/LLamaSharp) use LLamaSharp to implement the Completion and Embedding interfaces of the semantic kernel
 - [semantic-kernel-ERNIE-Bot](https://github.com/custouch/semantic-kernel-ERNIE-Bot): Semantic Kernel 集成文心千帆
+- [DashScope.net](https://github.com/custouch/DashScope.net) Semantic Kernel 集成 Aliyun DashScope灵积模型服务 SDK，通义千问SDK
 - [Elsa.SemanticKernel](https://github.com/rysweet/Elsa.SemanticKernel): SemanticKernel Activity Provider for Elsa Workflows
 - [Write a blog using Semantic Kernel](https://github.com/devedium/WriteABlog)
 - [Chat with your Enterprise Data: powered by Azure OpenAI/ChatGPT, Cognitive Search, and Bot Service](https://github.com/ronikurnia1/gpt-azure-botservice)
