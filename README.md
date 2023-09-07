@@ -113,8 +113,10 @@ and encourage developers to use them for their own applications. This hackathon 
 - [Building AI apps with Java and Semantic Kernel! | Intro to Semantic Kerne](https://www.youtube.com/watch?v=_l1R1f-YuoAl)
 - [08.16.2023 - Semantic Kernel Office Hours](https://www.youtube.com/watch?v=XUyN2p-IkvE)
 - [08.30.2023 - Semantic Kernel Office Hours](https://www.youtube.com/watch?v=m5ylH57Rq4Y)
+- [09.06.2023 - Semantic Kernel Office Hours](https://www.youtube.com/watch?v=vPZXBedjuXg)
 - [Introduction to Semantic Kernel and Microsoft Fabric! (feat. Kinfey Lo)](https://www.youtube.com/watch?v=mCn0ie0z7EM)
 - [How to create a basic planner](https://www.youtube.com/watch?v=kdelXPl4i88)
+- [New POWERSHELL Planner](https://www.youtube.com/watch?v=91-_7z5tFV8)
 
 ### Articles
 - [Empowering AI with Semantic Kernel Planners for Seamless Orchestration](https://medium.com/@akshaykokane09/empowering-ai-with-semantic-kernel-planners-for-seamless-orchestration-1c7ad35f2337)
