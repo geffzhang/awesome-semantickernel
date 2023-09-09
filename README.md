@@ -13,6 +13,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Table of Contents](#table-of-contents)
   - [Semantickernel Framework](#semantickernel-framework)
   - [Plugins](#plugins)
+  - [Connectors](#Connectors)
   - [Open Source Projects](#open-source-projects)
   - [Learn](#learn)
     - [Notebooks](#notebooks)
