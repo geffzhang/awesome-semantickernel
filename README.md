@@ -122,6 +122,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [09.06.2023 - Semantic Kernel Office Hours](https://www.youtube.com/watch?v=vPZXBedjuXg)
 - [Introduction to Semantic Kernel and Microsoft Fabric! (feat. Kinfey Lo)](https://www.youtube.com/watch?v=mCn0ie0z7EM)
 - [How to create a basic planner](https://www.youtube.com/watch?v=kdelXPl4i88)
+- [How to create a sequential planner using semantic kernel](https://www.youtube.com/watch?v=r-atDSeqLaI)
 - [New POWERSHELL Planner](https://www.youtube.com/watch?v=91-_7z5tFV8)
 
 ### Articles
