@@ -94,6 +94,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [TextToVideo](https://github.com/Saby007/TextToVideo) This is an app to convert Text to Video using Azure Open AI and Dall-e in Python using Semantic Kernel.
 - [ai-playground](https://github.com/karlgodtliebsen/ai-playground) This repository is for learning about AI - OpenAI and related using dotnet
 - [LLM-Powered Wordle-Solver Agent](https://github.com/husainhz7/wordle-llm-solver) This is a Wordle-solving script powered by LLM (Large Language Model) and built using Semantic Kernel and PyAutoGUI.
+- [MachineIntelligence-TextAnalytics-TPLDataFlows](https://github.com/bartczernicki/MachineIntelligence-TextAnalytics-TPLDataFlows) Machine Intelligence Text Analytics Enrichment implemented using Task Parallel Library Data Flow Pipelines
   
 ## Learn
 
