@@ -95,6 +95,8 @@ and encourage developers to use them for their own applications. This hackathon 
 - [ai-playground](https://github.com/karlgodtliebsen/ai-playground) This repository is for learning about AI - OpenAI and related using dotnet
 - [LLM-Powered Wordle-Solver Agent](https://github.com/husainhz7/wordle-llm-solver) This is a Wordle-solving script powered by LLM (Large Language Model) and built using Semantic Kernel and PyAutoGUI.
 - [MachineIntelligence-TextAnalytics-TPLDataFlows](https://github.com/bartczernicki/MachineIntelligence-TextAnalytics-TPLDataFlows) Machine Intelligence Text Analytics Enrichment implemented using Task Parallel Library Data Flow Pipelines
+- [skonsole](https://github.com/lemillermicrosoft/skonsole) A Pull Request Skill example built on the Semantic Kernel
+- [skonsole-generate-pr-description](https://github.com/mkarle/skonsole-generate-pr-description) A PR tool that uses Microsoft's Semantic Kernel and LLMs to generate PR descriptions
   
 ## Learn
 
