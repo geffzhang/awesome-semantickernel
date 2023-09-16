@@ -98,6 +98,8 @@ and encourage developers to use them for their own applications. This hackathon 
 - [MachineIntelligence-TextAnalytics-TPLDataFlows](https://github.com/bartczernicki/MachineIntelligence-TextAnalytics-TPLDataFlows) Machine Intelligence Text Analytics Enrichment implemented using Task Parallel Library Data Flow Pipelines
 - [skonsole](https://github.com/lemillermicrosoft/skonsole) A Pull Request Skill example built on the Semantic Kernel
 - [skonsole-generate-pr-description](https://github.com/mkarle/skonsole-generate-pr-description) A PR tool that uses Microsoft's Semantic Kernel and LLMs to generate PR descriptions
+- [Retrieval Augmented Generation (RAG) using Azure Cognitive Search](https://github.com/MeshackMusundi/AzureCognitiveSearch-RAG)
+
   
 ## Learn
 
@@ -114,6 +116,8 @@ and encourage developers to use them for their own applications. This hackathon 
 - [SemanticKernelLearningLab](https://github.com/walidamro-msft/SemanticKernelLearningLab) This is a lab to learn Semantic Kernel and Azure Open AI Services
 - [Semantic-Kernel-Workshop](https://github.com/jogendrasinghgurjar/Semantic-Kernel-Workshop)
 - [semantic-kernel-quickstart](https://github.com/shuaihuadu/semantic-kernel-quickstar)
+- [semantic-kernel-rag-chat](https://github.com/Azure-Samples/semantic-kernel-rag-chat) Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search
+
 
 ### Videos
 - [A Lightweight SDK for Integrating AI Models and Plugins](https://thedataexchange.media/semantic-kernel/amp/)
