@@ -99,6 +99,8 @@ and encourage developers to use them for their own applications. This hackathon 
 - [skonsole](https://github.com/lemillermicrosoft/skonsole) A Pull Request Skill example built on the Semantic Kernel
 - [skonsole-generate-pr-description](https://github.com/mkarle/skonsole-generate-pr-description) A PR tool that uses Microsoft's Semantic Kernel and LLMs to generate PR descriptions
 - [Retrieval Augmented Generation (RAG) using Azure Cognitive Search](https://github.com/MeshackMusundi/AzureCognitiveSearch-RAG)
+- [dapr-chat-20230822](https://github.com/cwiederspan/dapr-chat-20230822) A Dapr-implemented OpenAI chat service demo
+- [This application is a demo on how to setup an event driven architecture combining Dapr, Azure OpenAI and Azure Container Apps](https://github.com/pelithne/cngbg)
   
 ## Learn
 
