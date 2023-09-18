@@ -109,6 +109,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Retrieval Augmented Generation (RAG) using Azure Cognitive Search](https://github.com/MeshackMusundi/AzureCognitiveSearch-RAG)
 - [dapr-chat-20230822](https://github.com/cwiederspan/dapr-chat-20230822) A Dapr-implemented OpenAI chat service demo
 - [This application is a demo on how to setup an event driven architecture combining Dapr, Azure OpenAI and Azure Container Apps](https://github.com/pelithne/cngbg)
+- [ParkPro](https://github.com/insaiyann/ParkPro) ParkPro aims to revolutionize parking services using Semantic kernel SDK
   
 ## Learn
 
