@@ -37,7 +37,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [SK release](https://github.com/microsoft/semantic-kernel/releases) SK release notes
 
 ## Plugins
-Plugins are at the heart of unlocking more potential with your [Semantic Kernel](https://github.com/microsoft/semantic-kernel) applications. They allow you to connect to external data sources and give large language models tools to be able to interact with native functions and API services.
+ modules that connect Semantic Kernel to different AI models or services, such as GPT-3, Azure Prompt Flow, or the Microsoft Graph
+ Plugins are at the heart of unlocking more potential with your [Semantic Kernel](https://github.com/microsoft/semantic-kernel) applications. They allow you to connect to external data sources and give large language models tools to be able to interact with native functions and API services.
+
 
 If you want to try out your plugins and you do not have a ChatGPT plus subscription or are off the waitlist, you can test this directly **for free** using the Semantic Kernel!
 
@@ -66,8 +68,11 @@ and encourage developers to use them for their own applications. This hackathon 
 - [Semantic Kernel - MongoDB Connector](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.MongoDB) Atlas MongoDB connector for Semantic Kernel skills and semantic memory
 
 ## Plans
+sequences of actions that Semantic Kernel can execute to achieve a goal, such as booking a flight or writing some content.
 
 ## Personas 
+profiles that define the preferences and personality of Semantic Kernel, such as tone, style, and humor
+
 
 ## Open Source Projects
 - [Copilot Chat Sample Application](https://github.com/microsoft/chat-copilot):This is an enriched intelligence app, with multiple dynamic components including command messages, user intent, and memories
