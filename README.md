@@ -58,7 +58,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [Webscraper AIplugin](https://github.com/craigomatic/webscraper-aiplugin): AI Plugin that can be used to scrape useful information from a given URL
 - [teams-bot-semantic-kernel](https://github.com/formulahendry/teams-bot-semantic-kernel) A Teams Bot app integrated with Semantic Kernel and its Microsoft Graph Plugin
 - [EmbedElite marketplace](https://github.com/embedelite/sk-hackathon)This project is creating a plugin for the EmbedElite marketplace for the SK Hackathon. The Sementic Kernel plugin facilitates fetching ready-made premium context based on embeddings via an API
-- [AssemblyAI.SemanticKernel](https://github.com/Swimburger/AssemblyAI.SemanticKernel) Transcribe audio using AssemblyAI with Semantic Kernel plugins.
+- [AssemblyAI plugins for Semantic Kernel](https://github.com/AssemblyAI/assemblyai-semantic-kernel) Transcribe audio using AssemblyAI with Semantic Kernel plugins.
 - [SemanticKernel.Connectors.Memory.SqlServer](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer) SQL Server connector for Semantic Kernel skills and semantic memory
 - [semantic-kernel-LLamaSharp](https://github.com/SciSharp/LLamaSharp) use LLamaSharp to implement the Completion and Embedding interfaces of the semantic kernel
 - [semantic-kernel-ERNIE-Bot](https://github.com/custouch/semantic-kernel-ERNIE-Bot): Semantic Kernel 集成文心千帆
