@@ -66,6 +66,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [SS.SemanticKernel.Extensions](https://github.com/chenrensong/SS.SemanticKernel.Extensions):  This extension enables you to generate text embeddings with a semantic-based kernel function.
 - [Semantic-Fleet ](https://github.com/MyIntelligenceAgency/semantic-fleet) Semantic-Fleet is a dedicated repository designed to extend the capabilities of Semantic Kernel.
 - [Semantic Kernel - MongoDB Connector](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.MongoDB) Atlas MongoDB connector for Semantic Kernel skills and semantic memory
+- [Faster & Smaller Single-File Search Engine for Vectors & Texts](https://github.com/unum-cloud/usearch)
 
 ## Plans
 sequences of actions that Semantic Kernel can execute to achieve a goal, such as booking a flight or writing some content.
