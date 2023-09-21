@@ -123,6 +123,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Tutorial: ChatGPT + Enterprise data with Semantic Kernel, OpenAI and Azure Cognitive Search](https://github.com/Azure-Samples/azure-search-openai-demo-csharp/)
 - [Learn Azure OpenAI Service with .NET](https://github.com/kinfey/dotNETOAIBooks): This is a Azure OpenAI book for .NET Developer
 - [MSFabricCopilotWorkshop](https://github.com/kinfey/MSFabricCopilotWorkshop) : Building Microsoft Fabric Copilot App Workshop
+- [VSCodeEnterpriseCopilotWorkshop](https://github.com/kinfey/VSCodeEnterpriseCopilotWorkshop) Create Your Visual Studio Code Copilot Extension for Enterprise
 - [Semantic Kernel OpenAPI Skill Sample Project](https://github.com/mbenachour/semantic-kernel-course) This is a sample project to demonstrate the Semantic Kernel OpenAPI skill. It consists of a clothing API, which is a Swagger API, and a Copilot chat app.
 - [openai-sk-demos](https://github.com/msalemor/openai-sk-demos) Semantic Kernel Demos
 - [SemanticKernelLearningLab](https://github.com/walidamro-msft/SemanticKernelLearningLab) This is a lab to learn Semantic Kernel and Azure Open AI Services
