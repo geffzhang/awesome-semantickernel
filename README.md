@@ -112,6 +112,8 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [dapr-chat-20230822](https://github.com/cwiederspan/dapr-chat-20230822) A Dapr-implemented OpenAI chat service demo
 - [This application is a demo on how to setup an event driven architecture combining Dapr, Azure OpenAI and Azure Container Apps](https://github.com/pelithne/cngbg)
 - [ParkPro](https://github.com/insaiyann/ParkPro) ParkPro aims to revolutionize parking services using Semantic kernel SDK
+- [Java and OpenAI Hero Demos](https://github.com/microsoft/java-semantic-kernel-demos) This repository holds end-to-end demo applications that represent the concept of an Intelligent App, built in Java
+- [Semantic Kernel in your application](https://github.com/Azure-For-Everyone/sk-hotelfiltering) we'll show you how to leverage Semantic Kernel into an existing application.
   
 ## Learn
 
@@ -130,6 +132,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Semantic-Kernel-Workshop](https://github.com/jogendrasinghgurjar/Semantic-Kernel-Workshop)
 - [semantic-kernel-quickstart](https://github.com/shuaihuadu/semantic-kernel-quickstar)
 - [semantic-kernel-rag-chat](https://github.com/Azure-Samples/semantic-kernel-rag-chat) Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search
+- [CookingKitchenSemanticKernelCourse](https://github.com/spavkov/CookingKitchenSemanticKernelCourse)
 
 
 ### Videos
