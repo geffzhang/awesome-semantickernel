@@ -152,6 +152,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [How to create a basic planner](https://www.youtube.com/watch?v=kdelXPl4i88)
 - [How to create a sequential planner using semantic kernel](https://www.youtube.com/watch?v=r-atDSeqLaI)
 - [New POWERSHELL Planner](https://www.youtube.com/watch?v=91-_7z5tFV8)
+- [Newest video on OpenAI Function calling in SK! Should make plans more stable and reliable](https://youtu.be/yAiKBRecNTQ)
 
 ### Articles
 - [Empowering AI with Semantic Kernel Planners for Seamless Orchestration](https://medium.com/@akshaykokane09/empowering-ai-with-semantic-kernel-planners-for-seamless-orchestration-1c7ad35f2337)
