@@ -24,7 +24,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Complement to this list](#complement-to-this-list)
 
 ## Semantickernel Framework
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel): the original  ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social) 
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel): the original  ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social) [![Semantic Kernel Nuget package](https://img.shields.io/nuget/vpre/Microsoft.SemanticKernel?label=nuget%20Semantic%20Kernel)](https://www.nuget.org/packages/Microsoft.SemanticKernel/) 
 - [Concepts](https://learn.microsoft.com/en-us/semantic-kernel/overview/): Semantic Kernel concepts doc 
 - [Discord discussion](https://aka.ms/SKDiscord)
 - [Semantic Kernel Blog](https://devblogs.microsoft.com/semantic-kernel/): The Official Semantic Kernel blog 
@@ -78,7 +78,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 
 ## Open Source Projects
 - [Copilot Chat Sample Application](https://github.com/microsoft/chat-copilot):This is an enriched intelligence app, with multiple dynamic components including command messages, user intent, and memories
-- [Index and query any data using LLM and natural language](https://github.com/microsoft/semantic-memory):Semantic Memory is an open-source library and service specializing in the efficient indexing of datasets through custom continuous data pipelines
+- [Index and query any data using LLM and natural language](https://github.com/microsoft/semantic-memory):Semantic Memory is an open-source library and service specializing in the efficient indexing of datasets through custom continuous data pipelines [![SemanticMemory Core Nuget package](https://img.shields.io/nuget/vpre/Microsoft.SemanticMemory.Core?label=nuget%20SemanticMemory%20Core)](https://www.nuget.org/packages/Microsoft.SemanticMemory.Core/) [![SemanticMemory Client Nuget package](https://img.shields.io/nuget/vpre/Microsoft.SemanticMemory.Client?label=nuget%20SemanticMemory%20Client)](https://www.nuget.org/packages/Microsoft.SemanticMemory.Client/) 
 - [Conversational Speaker](https://github.com/microsoft/conversational-speaker): uses a Raspberry Pi (or desktop) to enable spoken conversation with OpenAI large language models. This implementation listens to speech, processes the conversation through the OpenAI service, and responds back.
 - [SolidWorks-Copilot](https://github.com/weianweigan/SolidWorks-Copilot) : Your SolidWorks Copoilt based on LLM(ChatGPT) and semantical kernel
 - [Email-Copilot](https://github.com/jogendrasinghgurjar/email-copilot): Email-copilot for Outlook aims to revolutionize email management by leveraging natural language processing to streamline drafting, responding, and organizing emails
