@@ -171,6 +171,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Unlock the Power of Telemetry in Semantic Kernel SDK](https://devblogs.microsoft.com/semantic-kernel/unlock-the-power-of-telemetry-in-semantic-kernel-sdk/)
 - [Track Your Token Usage and Costs with Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/track-your-token-usage-and-costs-with-semantic-kernel/)
 - [A Pythonista's Intro to Semantic Kernel](https://towardsdatascience.com/a-pythonistas-intro-to-semantic-kernel-af5a1a39564d)
+- [Ask .NET Rocks! questions with Semantic Kernel, GPT, and Chroma DB](https://www.assemblyai.com/blog/ask-dotnetrocks-questions-semantic-kernel/) Develop an application that answers questions about .NET Rocks! using Semantic Kernel, GPT models, Chroma DB, and AssemblyAI transcriptions.
 
 ## Complement to this list
 
