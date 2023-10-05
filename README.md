@@ -68,6 +68,8 @@ and encourage developers to use them for their own applications. This hackathon 
 - [Semantic Kernel - MongoDB Connector](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.MongoDB) Atlas MongoDB connector for Semantic Kernel skills and semantic memory
 - [Faster & Smaller Single-File Search Engine for Vectors & Texts](https://github.com/unum-cloud/usearch)
 - [Microsoft-Semantic-Kernel-Community-dotnet](https://github.com/Azure-AI-Community/Microsoft-Semantic-Kernel-Community-dotnet)
+- [sk-researcher](https://github.com/craigomatic/sk-researcher): Using Semantic Kernel to power a research agent that will work on your behalf to research a topic
+- [worddoc-aiplugin](https://github.com/craigomatic/worddoc-aiplugin) AI Plugin that can be used to create and append to word documents
 
 ## Plans
 sequences of actions that Semantic Kernel can execute to achieve a goal, such as booking a flight or writing some content.
@@ -92,7 +94,6 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Chat with your Enterprise Data: powered by Azure OpenAI/ChatGPT, Cognitive Search, and Bot Service](https://github.com/ronikurnia1/gpt-azure-botservice)
 - [Semantic Kernel Sidecar](https://github.com/raykao/semantic-kernel-sidecar) About A prototype for an abstracted Sidecar Process that runs/abstracts Semantic Kernel via HTTP/gRPC
 - [LangChain](https://github.com/tryAGI/LangChain): C# implementation of LangChain
-- [sk-researcher](https://github.com/craigomatic/sk-researcher): Using Semantic Kernel to power a research agent that will work on your behalf to research a topic
 - [semantic-kernel-ecom](https://github.com/alexcalabrese/semantic-kernel-ecom) AI-Powered eShopOnWeb E-commerce using Semantic Kernel
 - [A Teams Bot app integrated with Semantic Kernel and its Microsoft Graph Plugin](https://github.com/formulahendry/teams-bot-semantic-kernel)
 - [azure-openai-dev-skills-orchestrator](https://github.com/microsoft/azure-openai-dev-skills-orchestrator) Build a Virtual AI Dev Team using Semantic Kernel Skills
