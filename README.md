@@ -149,12 +149,14 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [09.12.2023 - Semantic Kernel Office Hours (Asia-Pacific Region)](https://www.youtube.com/watch?v=hwVfie6Bnb8)
 - [09.20.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=WD7q8S2T2yc)
 - [09.26.2023 - Semantic Kernel Office Hours (Asia-Pacific Region)](https://www.youtube.com/watch?v=KQAzl5KQyfc)
+- [10.04.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=p_vtK7bcxqc)
 - [Introduction to Semantic Kernel and Microsoft Fabric! (feat. Kinfey Lo)](https://www.youtube.com/watch?v=mCn0ie0z7EM)
 - [How to create a basic planner](https://www.youtube.com/watch?v=kdelXPl4i88)
 - [How to create a sequential planner using semantic kernel](https://www.youtube.com/watch?v=r-atDSeqLaI)
 - [New POWERSHELL Planner](https://www.youtube.com/watch?v=91-_7z5tFV8)
 - [A deeper dive on PromptFlow and Semantic Kernel (feat. Matthew Bolanos)](https://www.youtube.com/watch?v=-maOEleJ1PE)
 - [Newest video on OpenAI Function calling in SK! Should make plans more stable and reliable](https://youtu.be/yAiKBRecNTQ)
+- [Introduction to Semantic Memory (feat. Devis Lucato) | Semantic Kernel](https://www.youtube.com/watch?v=5JYW_uAxwYM)
 
 ### Articles
 - [Empowering AI with Semantic Kernel Planners for Seamless Orchestration](https://medium.com/@akshaykokane09/empowering-ai-with-semantic-kernel-planners-for-seamless-orchestration-1c7ad35f2337)
