@@ -116,6 +116,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Java and OpenAI Hero Demos](https://github.com/microsoft/java-semantic-kernel-demos) This repository holds end-to-end demo applications that represent the concept of an Intelligent App, built in Java
 - [Semantic Kernel in your application](https://github.com/Azure-For-Everyone/sk-hotelfiltering) we'll show you how to leverage Semantic Kernel into an existing application.
 - [semantic_kernel_examples](https://github.com/rajib76/semantic_kernel_examples) This repo will contain the semantic kernel examples
+- [sk-hotelfiltering](https://github.com/Azure-For-Everyone/sk-hotelfiltering) An example of how to use Semantic Kernel as part of a Hotel booking website for filtering hotels using natural language
   
 ## Learn
 
