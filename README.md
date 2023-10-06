@@ -134,6 +134,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [semantic-kernel-quickstart](https://github.com/shuaihuadu/semantic-kernel-quickstar)
 - [semantic-kernel-rag-chat](https://github.com/Azure-Samples/semantic-kernel-rag-chat) Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search
 - [CookingKitchenSemanticKernelCourse](https://github.com/spavkov/CookingKitchenSemanticKernelCourse)
+- [Hands-on Introduction to Semantic Kernel](https://github.com/ecdedios/hands-on-intro-semantic-kernel)
 
 
 ### Videos
