@@ -24,7 +24,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Complement to this list](#complement-to-this-list)
 
 ## Semantickernel Framework
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel): the original  ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social) 
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel): the original  ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social) [![Semantic Kernel Nuget package](https://img.shields.io/nuget/vpre/Microsoft.SemanticKernel?label=nuget%20Semantic%20Kernel)](https://www.nuget.org/packages/Microsoft.SemanticKernel/) 
 - [Concepts](https://learn.microsoft.com/en-us/semantic-kernel/overview/): Semantic Kernel concepts doc 
 - [Discord discussion](https://aka.ms/SKDiscord)
 - [Semantic Kernel Blog](https://devblogs.microsoft.com/semantic-kernel/): The Official Semantic Kernel blog 
@@ -53,20 +53,20 @@ and encourage developers to use them for their own applications. This hackathon 
 - **Python** - [(Video)](https://youtu.be/_4HZCdd3OxI) | [(Repo) Semantic Kernel Python Flask (and plugin) Starter](https://github.com/microsoft/semantic-kernel-starters/tree/main/sk-python-flask)
 
 - [NL2EF](https://github.com/anthonypuppo/sk-nl2ef-plugin) A Semantic Kernel plugin designed to be a drop-in service that can expose an existing database to be queried via natural language
-- [Packages, Examples and Demo code for Semantic Kernel](https://github.com/thinktecture/SemanticKernel)
+- [Packages, Examples and Demo code for Semantic Kernel](https://github.com/thinktecture/SemanticKernel) [![BlazorNavigationPlugin Nuget package](https://img.shields.io/nuget/vpre/Thinktecture.SemanticKernel.BlazorNavigationPlugin?label=nuget%20BlazorNavigationPlugin)](https://www.nuget.org/packages/Thinktecture.SemanticKernel.BlazorNavigationPlugin/)
 - [sk-ethereumtx-plugin](https://github.com/sustia-llc/sk-ethereumtx-plugin) Semantic Kernel ChatGPT plugin for Ethereum Txs
 - [Webscraper AIplugin](https://github.com/craigomatic/webscraper-aiplugin): AI Plugin that can be used to scrape useful information from a given URL
 - [teams-bot-semantic-kernel](https://github.com/formulahendry/teams-bot-semantic-kernel) A Teams Bot app integrated with Semantic Kernel and its Microsoft Graph Plugin
 - [EmbedElite marketplace](https://github.com/embedelite/sk-hackathon)This project is creating a plugin for the EmbedElite marketplace for the SK Hackathon. The Sementic Kernel plugin facilitates fetching ready-made premium context based on embeddings via an API
-- [AssemblyAI plugins for Semantic Kernel](https://github.com/AssemblyAI/assemblyai-semantic-kernel) Transcribe audio using AssemblyAI with Semantic Kernel plugins.
-- [SemanticKernel.Connectors.Memory.SqlServer](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer) SQL Server connector for Semantic Kernel skills and semantic memory
-- [semantic-kernel-LLamaSharp](https://github.com/SciSharp/LLamaSharp) use LLamaSharp to implement the Completion and Embedding interfaces of the semantic kernel
-- [semantic-kernel-ERNIE-Bot](https://github.com/custouch/semantic-kernel-ERNIE-Bot): Semantic Kernel 集成文心千帆
-- [DashScope.net](https://github.com/custouch/DashScope.net) Semantic Kernel 集成 Aliyun DashScope灵积模型服务 SDK，通义千问SDK
-- [SS.SemanticKernel.Extensions](https://github.com/chenrensong/SS.SemanticKernel.Extensions):  This extension enables you to generate text embeddings with a semantic-based kernel function.
-- [Semantic-Fleet ](https://github.com/MyIntelligenceAgency/semantic-fleet) Semantic-Fleet is a dedicated repository designed to extend the capabilities of Semantic Kernel.
-- [Semantic Kernel - MongoDB Connector](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.MongoDB) Atlas MongoDB connector for Semantic Kernel skills and semantic memory
-- [Faster & Smaller Single-File Search Engine for Vectors & Texts](https://github.com/unum-cloud/usearch)
+- [AssemblyAI plugins for Semantic Kernel](https://github.com/AssemblyAI/assemblyai-semantic-kernel) Transcribe audio using AssemblyAI with Semantic Kernel plugins. [![AssemblyAI.SemanticKernel Nuget package](https://img.shields.io/nuget/vpre/AssemblyAI.SemanticKernel?label=nuget%20AssemblyAI%20plugin)](https://www.nuget.org/packages/AssemblyAI.SemanticKernel/)
+- [SemanticKernel.Connectors.Memory.SqlServer](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer) SQL Server connector for Semantic Kernel skills and semantic memory [![SQLServer connector Nuget package](https://img.shields.io/nuget/vpre/SemanticKernel.Connectors.Memory.SqlServer?label=nuget%20SqlServer%20connector)](https://www.nuget.org/packages/SemanticKernel.Connectors.Memory.SqlServer/)
+- [semantic-kernel-LLamaSharp](https://github.com/SciSharp/LLamaSharp) use LLamaSharp to implement the Completion and Embedding interfaces of the semantic kernel [![LLamaSharp Nuget package](https://img.shields.io/nuget/vpre/LLamaSharp?label=nuget%20LLamaSharp)](https://www.nuget.org/packages/LLamaSharp/)
+- [semantic-kernel-ERNIE-Bot](https://github.com/custouch/semantic-kernel-ERNIE-Bot): Semantic Kernel 集成文心千帆 [![ERNIE-Bot Nuget package](https://img.shields.io/nuget/vpre/ERNIE-Bot.SemanticKernel?label=nuget%20ERNIE-Bot)](https://www.nuget.org/packages/ERNIE-Bot.SemanticKernel/)
+- [DashScope.net](https://github.com/custouch/DashScope.net) Semantic Kernel 集成 Aliyun DashScope灵积模型服务 SDK，通义千问SDK [![DashScope.Net Nuget package](https://img.shields.io/nuget/vpre/DashScope.SemanticKernel?label=nuget%20DashScope.Net)](https://www.nuget.org/packages/DashScope.SemanticKernel/)
+- [SS.SemanticKernel.Extensions](https://github.com/chenrensong/SS.SemanticKernel.Extensions):  This extension enables you to generate text embeddings with a semantic-based kernel function. [![Semantic kernel extensions Nuget package](https://img.shields.io/nuget/vpre/SS.SemanticKernel.Extensions?label=nuget%20SemanticKernel%20Extensions)](https://www.nuget.org/packages/SS.SemanticKernel.Extensions/)
+- [Semantic-Fleet ](https://github.com/MyIntelligenceAgency/semantic-fleet) Semantic-Fleet is a dedicated repository designed to extend the capabilities of Semantic Kernel. [![Oobabooga Connector Nuget package](https://img.shields.io/nuget/vpre/MyIA.SemanticKernel.Connectors.AI.Oobabooga?label=nuget%20Oobabooga%20Connector)](https://www.nuget.org/packages/MyIA.SemanticKernel.Connectors.AI.Oobabooga/) [![Multiconnector Nuget package](https://img.shields.io/nuget/vpre/MyIA.SemanticKernel.Connectors.AI.MultiConnector?label=nuget%20MultiConnector)](https://www.nuget.org/packages/MyIA.SemanticKernel.Connectors.AI.MultiConnector/) 
+- [Semantic Kernel - MongoDB Connector](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.MongoDB) Atlas MongoDB connector for Semantic Kernel skills and semantic memory [![MongoDB Connector Nuget package](https://img.shields.io/nuget/vpre/SemanticKernel.Connectors.Memory.MongoDB?label=nuget%20MongoDB%20connector)](https://www.nuget.org/packages/SemanticKernel.Connectors.Memory.MongoDB/)
+- [Faster & Smaller Single-File Search Engine for Vectors & Texts](https://github.com/unum-cloud/usearch) [![USearch Nuget package](https://img.shields.io/nuget/vpre/Cloud.Unum.USearch?label=nuget%20USearch)](https://www.nuget.org/packages/Cloud.Unum.USearch/)
 - [Microsoft-Semantic-Kernel-Community-dotnet](https://github.com/Azure-AI-Community/Microsoft-Semantic-Kernel-Community-dotnet)
 - [sk-researcher](https://github.com/craigomatic/sk-researcher): Using Semantic Kernel to power a research agent that will work on your behalf to research a topic
 - [worddoc-aiplugin](https://github.com/craigomatic/worddoc-aiplugin) AI Plugin that can be used to create and append to word documents
@@ -80,7 +80,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 
 ## Open Source Projects
 - [Copilot Chat Sample Application](https://github.com/microsoft/chat-copilot):This is an enriched intelligence app, with multiple dynamic components including command messages, user intent, and memories
-- [Index and query any data using LLM and natural language](https://github.com/microsoft/semantic-memory):Semantic Memory is an open-source library and service specializing in the efficient indexing of datasets through custom continuous data pipelines
+- [Index and query any data using LLM and natural language](https://github.com/microsoft/semantic-memory):Semantic Memory is an open-source library and service specializing in the efficient indexing of datasets through custom continuous data pipelines [![SemanticMemory Core Nuget package](https://img.shields.io/nuget/vpre/Microsoft.SemanticMemory.Core?label=nuget%20SemanticMemory%20Core)](https://www.nuget.org/packages/Microsoft.SemanticMemory.Core/) [![SemanticMemory Client Nuget package](https://img.shields.io/nuget/vpre/Microsoft.SemanticMemory.Client?label=nuget%20SemanticMemory%20Client)](https://www.nuget.org/packages/Microsoft.SemanticMemory.Client/) 
 - [Conversational Speaker](https://github.com/microsoft/conversational-speaker): uses a Raspberry Pi (or desktop) to enable spoken conversation with OpenAI large language models. This implementation listens to speech, processes the conversation through the OpenAI service, and responds back.
 - [SolidWorks-Copilot](https://github.com/weianweigan/SolidWorks-Copilot) : Your SolidWorks Copoilt based on LLM(ChatGPT) and semantical kernel
 - [Email-Copilot](https://github.com/jogendrasinghgurjar/email-copilot): Email-copilot for Outlook aims to revolutionize email management by leveraging natural language processing to streamline drafting, responding, and organizing emails
