@@ -78,6 +78,7 @@ sequences of actions that Semantic Kernel can execute to achieve a goal, such as
 ## Personas 
 profiles that define the preferences and personality of Semantic Kernel, such as tone, style, and humor
 - [SKPersona](https://github.com/anthonypuppo/skpersona) Demonstration of how to give Language Models (LLMs) a unique persona using part of speech tagging and logit bias
+- [Semantic Kernel Personas: An Interview with SK Team Member Brian Krabach](https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-personas-an-interview-with-sk-team-member-brian-krabach/)
 
 ## Open Source Projects
 - [Copilot Chat Sample Application](https://github.com/microsoft/chat-copilot):This is an enriched intelligence app, with multiple dynamic components including command messages, user intent, and memories
