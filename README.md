@@ -13,7 +13,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Table of Contents](#table-of-contents)
   - [Semantickernel Framework](#semantickernel-framework)
   - [Plugins](#plugins)
-  - [Plans](#Plans)
+  - [Planners](#Planners)
   - [Personas](#Personas)
   - [Open Source Projects](#open-source-projects)
   - [Learn](#learn)
@@ -72,7 +72,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [worddoc-aiplugin](https://github.com/craigomatic/worddoc-aiplugin) AI Plugin that can be used to create and append to word documents
 - [sk-plugin-sample](https://github.com/Jandev/sk-plugin-sample) Sample project to show how plugins can be used with Semantic Kernel
 
-## Plans
+## Planners
 sequences of actions that Semantic Kernel can execute to achieve a goal, such as booking a flight or writing some content.
 
 ## Personas 
