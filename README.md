@@ -95,6 +95,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Using Semantic Kernel to Summarize Youtube Videos](https://github.com/RogerBarreto/sk-youtube-summarizer)
 - [Elsa.SemanticKernel](https://github.com/rysweet/Elsa.SemanticKernel): SemanticKernel Activity Provider for Elsa Workflows
 - [Write a blog using Semantic Kernel](https://github.com/devedium/WriteABlog)
+- [op-semantic-kernel-demo](https://github.com/jackawatts/op-semantic-kernel-demo) Impersonating yourself with ChatGPT and Microsoft Semantic Kernel
 - [Chat with your Enterprise Data: powered by Azure OpenAI/ChatGPT, Cognitive Search, and Bot Service](https://github.com/ronikurnia1/gpt-azure-botservice)
 - [Semantic Kernel Sidecar](https://github.com/raykao/semantic-kernel-sidecar) About A prototype for an abstracted Sidecar Process that runs/abstracts Semantic Kernel via HTTP/gRPC
 - [LangChain](https://github.com/tryAGI/LangChain): C# implementation of LangChain
