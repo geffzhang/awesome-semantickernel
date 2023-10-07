@@ -76,6 +76,7 @@ and encourage developers to use them for their own applications. This hackathon 
 sequences of actions that Semantic Kernel can execute to achieve a goal, such as booking a flight or writing some content.
 - [Introduction to Semantic Kernel Planners for Seamless Orchestration](https://medium.com/@akshaykokane09/empowering-ai-with-semantic-kernel-planners-for-seamless-orchestration-1c7ad35f2337)
 - [Semantic Kernel Planner 101](https://blog.baeke.info/2023/06/01/semantic-kernel-planner-101/)
+- [Using Planners in the SK Java Kernel](https://devblogs.microsoft.com/semantic-kernel/using-planners-in-the-sk-java-kernel/)
 
 ## Personas 
 profiles that define the preferences and personality of Semantic Kernel, such as tone, style, and humor
