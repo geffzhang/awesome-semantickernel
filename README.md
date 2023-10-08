@@ -89,6 +89,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 
 ## Open Source Projects
 - [Copilot Chat Sample Application](https://github.com/microsoft/chat-copilot):This is an enriched intelligence app, with multiple dynamic components including command messages, user intent, and memories
+- [ TypeChat.NET brings the ideas of TypeChat to .NET](https://github.com/microsoft/typechat.net) TypeChat.NET provides cross platform libraries that help you build natural language interfaces with language models using strong types, type validation and simple type safe programs (plans).
 - [Conversational Speaker](https://github.com/microsoft/conversational-speaker): uses a Raspberry Pi (or desktop) to enable spoken conversation with OpenAI large language models. This implementation listens to speech, processes the conversation through the OpenAI service, and responds back.
 - [SolidWorks-Copilot](https://github.com/weianweigan/SolidWorks-Copilot) : Your SolidWorks Copoilt based on LLM(ChatGPT) and semantical kernel
 - [Email-Copilot](https://github.com/jogendrasinghgurjar/email-copilot): Email-copilot for Outlook aims to revolutionize email management by leveraging natural language processing to streamline drafting, responding, and organizing emails
