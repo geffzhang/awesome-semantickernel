@@ -74,7 +74,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [sk-researcher](https://github.com/craigomatic/sk-researcher): Using Semantic Kernel to power a research agent that will work on your behalf to research a topic
 - [worddoc-aiplugin](https://github.com/craigomatic/worddoc-aiplugin) AI Plugin that can be used to create and append to word documents
 - [sk-plugin-sample](https://github.com/Jandev/sk-plugin-sample) Sample project to show how plugins can be used with Semantic Kernel
-- [semantic-kernel-gradio](https://github.com/khcheung/semantic-kernel-gradio/)   [![Simple.SemanticKernel.Connectors.Gradio Nuget package](https://img.shields.io/nuget/vpre/Simple.SemanticKernel.Connectors.Gradio?label=nuget%20Gradio API B)](https://www.nuget.org/packages/Simple.SemanticKernel.Connectors.Gradio/)
+- [semantic-kernel-gradio](https://github.com/khcheung/semantic-kernel-gradio/) Using Gradio API for Semantic Kernel - TextEmbeddingGeneration [![Simple.SemanticKernel.Connectors.Gradio Nuget package](https://img.shields.io/nuget/vpre/Simple.SemanticKernel.Connectors.Gradio?label=nuget%20Gradio API)](https://www.nuget.org/packages/Simple.SemanticKernel.Connectors.Gradio/)
 
 ## Planners
 sequences of actions that Semantic Kernel can execute to achieve a goal, such as booking a flight or writing some content.
