@@ -128,7 +128,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Semantic Kernel in your application](https://github.com/Azure-For-Everyone/sk-hotelfiltering) we'll show you how to leverage Semantic Kernel into an existing application.
 - [semantic_kernel_examples](https://github.com/rajib76/semantic_kernel_examples) This repo will contain the semantic kernel examples
 - [sk-hotelfiltering](https://github.com/Azure-For-Everyone/sk-hotelfiltering) An example of how to use Semantic Kernel as part of a Hotel booking website for filtering hotels using natural language
-  
+- [SemanticKernelDemo](https://github.com/xuzeyu91/SemanticKernelDemo) 本项目主要介绍了SK的基本功能使用
 ## Learn
 
 ### Notebooks
