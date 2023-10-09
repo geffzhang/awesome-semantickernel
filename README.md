@@ -189,6 +189,9 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Ask .NET Rocks! questions with Semantic Kernel, GPT, and Chroma DB](https://www.assemblyai.com/blog/ask-dotnetrocks-questions-semantic-kernel/) Develop an application that answers questions about .NET Rocks! using Semantic Kernel, GPT models, Chroma DB, and AssemblyAI transcriptions.
 - [Advanced Reasoning in Semantic Kernel – Build Autonomous Agents](https://tsmatz.wordpress.com/2023/06/08/semantic_kernel_reasoning_for_autonomous_agent/)
 - [AI Orchestrator Beyond LangChain](https://mlnotes.substack.com/p/ai-orchestrator-beyond-langchain)
+- [Searching an internal Knowledge Base with OpenAI and Azure Cognitive Search](https://developer.volocopter.com/p/searching-an-internal-knowledge-base-with-openai-and-azure-cognitive-search/)
+- [Intro to Semantic Kernel – Part One](https://blog.brakmic.com/intro-to-semantic-kernel-part-one/)
+- [Intro to Semantic Kernel – Part Two](https://blog.brakmic.com/intro-to-semantic-kernel-part-two/)
 
 ## Complement to this list
 
