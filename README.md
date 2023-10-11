@@ -150,6 +150,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [semantic-kernel-rag-chat](https://github.com/Azure-Samples/semantic-kernel-rag-chat) Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search
 - [CookingKitchenSemanticKernelCourse](https://github.com/spavkov/CookingKitchenSemanticKernelCourse)
 - [Hands-on Introduction to Semantic Kernel](https://github.com/ecdedios/hands-on-intro-semantic-kernel)
+- [SKPlayground](https://github.com/brakmic/SKPlayground)
 
 
 ### Videos
@@ -194,6 +195,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Searching an internal Knowledge Base with OpenAI and Azure Cognitive Search](https://developer.volocopter.com/p/searching-an-internal-knowledge-base-with-openai-and-azure-cognitive-search/)
 - [Intro to Semantic Kernel – Part One](https://blog.brakmic.com/intro-to-semantic-kernel-part-one/)
 - [Intro to Semantic Kernel – Part Two](https://blog.brakmic.com/intro-to-semantic-kernel-part-two/)
+- [Intro to Semantic Kernel – Part Three](https://blog.brakmic.com/intro-to-semantic-kernel-part-three/)
 
 ## Complement to this list
 
