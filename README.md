@@ -129,7 +129,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [semantic_kernel_examples](https://github.com/rajib76/semantic_kernel_examples) This repo will contain the semantic kernel examples
 - [sk-hotelfiltering](https://github.com/Azure-For-Everyone/sk-hotelfiltering) An example of how to use Semantic Kernel as part of a Hotel booking website for filtering hotels using natural language
 - [SemanticKernelDemo](https://github.com/xuzeyu91/SemanticKernelDemo) 本项目主要介绍了SK的基本功能使用
-- [EarthChat](https://github.com/239573049/EarthChat) 基于SignalR实现的Chat聊天，支持横向扩展，以便支撑上万用户同时在线聊天
+- [EarthChat](https://github.com/239573049/EarthChat) 基于SignalR实现的Chat聊天，支持横向扩展，以便支撑百万用户同时在线聊天
   
 ## Learn
 
