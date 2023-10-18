@@ -169,6 +169,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [10.04.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=p_vtK7bcxqc)
 - [10.10.2023 - Semantic Kernel Office Hours (Asia-Pacific Region)](https://www.youtube.com/watch?v=_5ofwSOzPmI)
 - [10.11.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=dXsjqmW_7Uw)
+- [10.18.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=2q9IhHYWTP0)
 - [Introduction to Semantic Kernel and Microsoft Fabric! (feat. Kinfey Lo)](https://www.youtube.com/watch?v=mCn0ie0z7EM)
 - [How to create a basic planner](https://www.youtube.com/watch?v=kdelXPl4i88)
 - [How to create a sequential planner using semantic kernel](https://www.youtube.com/watch?v=r-atDSeqLaI)
