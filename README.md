@@ -199,6 +199,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Intro to Semantic Kernel – Part One](https://blog.brakmic.com/intro-to-semantic-kernel-part-one/)
 - [Intro to Semantic Kernel – Part Two](https://blog.brakmic.com/intro-to-semantic-kernel-part-two/)
 - [Intro to Semantic Kernel – Part Three](https://blog.brakmic.com/intro-to-semantic-kernel-part-three/)
+- [Intro to Semantic Kernel – Part Four](https://blog.brakmic.com/intro-to-semantic-kernel-part-four/)
 
 ## Complement to this list
 
