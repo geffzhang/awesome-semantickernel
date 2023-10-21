@@ -32,7 +32,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [VisualStudio Code Tool](https://marketplace.visualstudio.com/items?itemName=ms-semantic-kernel.semantic-kernel): Visual Code Studio Semantic Kernel Extension
 - [OSSInsight.io](https://ossinsight.io/analyze/microsoft/semantic-kernel?vs=langchain-ai%2Flangchain#overview)
 - [gosk](https://github.com/mfmayer/gosk) Go Semantic Kernel (gosk) adapts Microsoft's Semantic Kernel (C#, Python) to provide OpenAI API integration for Golang developers
-- [Semantic Kernel vs LangChain](https://github.com/formulahendry/semantic-kernel-vs-langchain) Compare Semantic Kernel and LangChai
+- [Semantic Kernel vs LangChain](https://github.com/formulahendry/semantic-kernel-vs-langchain) Compare Semantic Kernel and LangChain
+- [analassist-langchain-vs-microsoft-sk](https://github.com/calapsss/analassist-langchain-vs-microsoft-sk) AnalAssist - LangChain vs. Microsoft Semantic Kernel
 - [Explore the Power of AI with SKPlayground](https://skplayground.dev/)
 - [SK release](https://github.com/microsoft/semantic-kernel/releases) SK release notes
 
