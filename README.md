@@ -36,6 +36,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [analassist-langchain-vs-microsoft-sk](https://github.com/calapsss/analassist-langchain-vs-microsoft-sk) AnalAssist - LangChain vs. Microsoft Semantic Kernel
 - [Explore the Power of AI with SKPlayground](https://skplayground.dev/)
 - [SK release](https://github.com/microsoft/semantic-kernel/releases) SK release notes
+- [SK Extensibility Scenarios](https://github.com/matthewbolanos/sk-v1-proposal)  how to extend several Semantic Kernel interfaces and to use them in core scenarios.
 
 ## Plugins
  modules that connect Semantic Kernel to different AI models or services, such as GPT-3, Azure Prompt Flow, or the Microsoft Graph
