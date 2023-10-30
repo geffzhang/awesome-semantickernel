@@ -136,6 +136,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [semantic-kernel-semanticsearch](https://github.com/thinktecture-labs/semantic-kernel-semanticsearch) Question & Answer flow with C# & Semantic Kernel
 - [sk-summarizer-pattern](https://github.com/msalemor/sk-summarizer-pattern) A summarizer implementation using Semantic Kernel
 - [Quarkus Semantic Kernel](https://github.com/quarkiverse/quarkus-semantic-kernel) This extension eases the integration of Semantic Kernel for Java with Quarkus
+- [semantic-kernel-bot-in-a-box](https://github.com/Azure/semantic-kernel-bot-in-a-box) Extensible Semantic Kernel Bot Solution Accelerator
   
 ## Learn
 
