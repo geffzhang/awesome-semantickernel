@@ -214,6 +214,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Intro to Semantic Kernel – Part Five](https://blog.brakmic.com/intro-to-semantic-kernel-part-five/)
 - [Intro to Semantic Kernel – Addendum](https://blog.brakmic.com/intro-to-semantic-kernel-addendum/)
 - [Introducing Semantic Kernel](https://thwanisithole.co.za/posts/introducing-semantic-kernel/)
+- [Build your AI First Apps with Semantic Kernel](https://arafattehsin.com/build-your-ai-first-apps-with-semantic-kernel/)
 
 ## Complement to this list
 
