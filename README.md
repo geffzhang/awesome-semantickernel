@@ -178,6 +178,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [10.11.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=dXsjqmW_7Uw)
 - [10.18.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=2q9IhHYWTP0)
 - [10.25.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=1LQ7m3lPoBk)
+- [11.01.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=-CYTBc0VDVk)
 - [Introduction to Semantic Kernel and Microsoft Fabric! (feat. Kinfey Lo)](https://www.youtube.com/watch?v=mCn0ie0z7EM)
 - [How to create a basic planner](https://www.youtube.com/watch?v=kdelXPl4i88)
 - [How to create a sequential planner using semantic kernel](https://www.youtube.com/watch?v=r-atDSeqLaI)
@@ -187,6 +188,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Introduction to Semantic Memory (feat. Devis Lucato) | Semantic Kernel](https://www.youtube.com/watch?v=5JYW_uAxwYM)
 - [RPG Assistant: Helping Forgetful Game Masters' with AI Driven World Management By Bruno Borges, John](https://www.youtube.com/watch?v=xGvOUmeSczE)
 - [Semantic Kernel: AI orchestration for intelligent apps By Bruno Borges, John Oliver](https://www.youtube.com/watch?v=8s3ddZ_Z8zg)
+- [Cooking with Semantic Kernel: Recipes for Building Chatbots, Agents, and more with LLMs (2023)](https://www.youtube.com/watch?v=AX8xM9YnV3k)
 
 ### Articles
 - [Empowering AI with Semantic Kernel Planners for Seamless Orchestration](https://medium.com/@akshaykokane09/empowering-ai-with-semantic-kernel-planners-for-seamless-orchestration-1c7ad35f2337)
