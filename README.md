@@ -190,6 +190,9 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [RPG Assistant: Helping Forgetful Game Masters' with AI Driven World Management By Bruno Borges, John](https://www.youtube.com/watch?v=xGvOUmeSczE)
 - [Semantic Kernel: AI orchestration for intelligent apps By Bruno Borges, John Oliver](https://www.youtube.com/watch?v=8s3ddZ_Z8zg)
 - [Cooking with Semantic Kernel: Recipes for Building Chatbots, Agents, and more with LLMs (2023)](https://www.youtube.com/watch?v=AX8xM9YnV3k)
+- [Cozy AI Kitchen – Episode 1](https://www.youtube.com/watch?v=6Jr6z_YvJhc)
+- [Cozy AI Kitchen – Episode 2](https://youtu.be/TZ8wHF9iiuM?si=4bkN1tUj3WxCLtpG)
+- [Cozy AI Kitchen – Episode 3](https://youtu.be/vEXTWilW_sU?si=1VeVE1psho_M53_E)
 
 ### Articles
 - [Empowering AI with Semantic Kernel Planners for Seamless Orchestration](https://medium.com/@akshaykokane09/empowering-ai-with-semantic-kernel-planners-for-seamless-orchestration-1c7ad35f2337)
