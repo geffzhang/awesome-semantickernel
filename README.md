@@ -180,6 +180,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [10.18.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=2q9IhHYWTP0)
 - [10.25.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=1LQ7m3lPoBk)
 - [11.01.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=-CYTBc0VDVk)
+- [11.08.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=pWt6wmRt5Ho)
 - [Introduction to Semantic Kernel and Microsoft Fabric! (feat. Kinfey Lo)](https://www.youtube.com/watch?v=mCn0ie0z7EM)
 - [How to create a basic planner](https://www.youtube.com/watch?v=kdelXPl4i88)
 - [How to create a sequential planner using semantic kernel](https://www.youtube.com/watch?v=r-atDSeqLaI)
@@ -219,6 +220,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Intro to Semantic Kernel – Addendum](https://blog.brakmic.com/intro-to-semantic-kernel-addendum/)
 - [Introducing Semantic Kernel](https://thwanisithole.co.za/posts/introducing-semantic-kernel/)
 - [Build your AI First Apps with Semantic Kernel](https://arafattehsin.com/build-your-ai-first-apps-with-semantic-kernel/)
+- [Evaluate your LLM Prompt Chains with Promptflow + Semantic Kernel!](https://www.youtube.com/watch?v=BlOBjm761I0)
 
 ## Complement to this list
 
