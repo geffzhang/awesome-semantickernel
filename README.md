@@ -139,6 +139,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Quarkus Semantic Kernel](https://github.com/quarkiverse/quarkus-semantic-kernel) This extension eases the integration of Semantic Kernel for Java with Quarkus
 - [semantic-kernel-bot-in-a-box](https://github.com/Azure/semantic-kernel-bot-in-a-box) Extensible Semantic Kernel Bot Solution Accelerator
 - [LablabAutogen](https://github.com/Josephrp/LablabAutogen) A generalist agent that can go online and accomplish complex tasks using semantic-kernel and autogen
+- [This is Local LLM Server for Semantic Kernel](https://github.com/kinfey/SemanticKernel-Local-LLM-Server) Local LLM Server for Semantic Kernel .NET Developer
   
 ## Learn
 
