@@ -80,6 +80,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [semantic-kernel-gradio](https://github.com/khcheung/semantic-kernel-gradio/) Using Gradio API for Semantic Kernel - TextEmbeddingGeneration
 - [ServiceStack.AI](https://github.com/ServiceStack/ServiceStack/tree/main/ServiceStack/src/ServiceStack.AI) Speech-to-Text and ChatGPT providers to enable natural language features in .NET
 - [MerkonVectorDB](https://github.com/Gravicode/MerkonVectorDB/)
+- [bankcopilot-semantickernel-aiplugin](https://github.com/raffertyuy/bankcopilot-semantickernel-aiplugin) This is a Bank ChatGPT AI Plugin POC to observe how ChatGPT will perform with additional banking transaction skills
 
 ## Planners
 sequences of actions that Semantic Kernel can execute to achieve a goal, such as booking a flight or writing some content.
@@ -161,6 +162,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [CookingKitchenSemanticKernelCourse](https://github.com/spavkov/CookingKitchenSemanticKernelCourse)
 - [Hands-on Introduction to Semantic Kernel](https://github.com/ecdedios/hands-on-intro-semantic-kernel)
 - [SKPlayground](https://github.com/brakmic/SKPlayground)
+- [AdventuresInSemanticKernel](https://github.com/HillPhelmuth/AdventuresInSemanticKernel) Learn about Semantic Kernel, Microsoft's AI orchestration library. Play with memories, models, plugins, and plans from various providers
 
 
 ### Videos
