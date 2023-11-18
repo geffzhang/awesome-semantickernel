@@ -142,6 +142,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [LablabAutogen](https://github.com/Josephrp/LablabAutogen) A generalist agent that can go online and accomplish complex tasks using semantic-kernel and autogen
 - [This is Local LLM Server for Semantic Kernel](https://github.com/kinfey/SemanticKernel-Local-LLM-Server) Local LLM Server for Semantic Kernel .NET Developer
 - [A reference .NET application implementing an eCommerce web site using a services-based architecture](https://github.com/dotnet/eShop)
+- [VectorSearchAiAssistant](https://github.com/Netizine/VectorSearchAiAssistant) Vector Search & AI Assistant for Azure Cosmos DB and Azure Cognitive Search
 
   
 ## Learn
