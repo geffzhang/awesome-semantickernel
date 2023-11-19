@@ -165,7 +165,8 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [CookingKitchenSemanticKernelCourse](https://github.com/spavkov/CookingKitchenSemanticKernelCourse)
 - [Hands-on Introduction to Semantic Kernel](https://github.com/ecdedios/hands-on-intro-semantic-kernel)
 - [SKPlayground](https://github.com/brakmic/SKPlayground)
-- [AdventuresInSemanticKernel](https://github.com/HillPhelmuth/AdventuresInSemanticKernel) Learn about Semantic Kernel, Microsoft's AI orchestration library. Play with memories, models, plugins, and plans from various providers
+- [AdventuresInSemanticKernel](https://github.com/HillPhelmuth/AdventuresInSemanticKernel) Learn about Semantic Kernel, Microsoft's AI orchestration library. Play with memories, models, plugins, and plans from various providers 
+- [understanding-semantic-kernel-with-heroes](https://github.com/0GiS0/understanding-semantic-kernel-with-heroes) Welcome to my own way to understand Semantic Kernel
 
 
 ### Videos
