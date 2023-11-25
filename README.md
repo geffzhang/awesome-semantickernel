@@ -143,7 +143,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [This is Local LLM Server for Semantic Kernel](https://github.com/kinfey/SemanticKernel-Local-LLM-Server) Local LLM Server for Semantic Kernel .NET Developer
 - [A reference .NET application implementing an eCommerce web site using a services-based architecture](https://github.com/dotnet/eShop)
 - [VectorSearchAiAssistant](https://github.com/Netizine/VectorSearchAiAssistant) Vector Search & AI Assistant for Azure Cosmos DB and Azure Cognitive Search
-
+- [entirely with native functions in C# and am building out a console application with Spectre.Console](https://github.com/IntegerMan/BatComputer)
   
 ## Learn
 
@@ -189,6 +189,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [11.01.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=-CYTBc0VDVk)
 - [11.08.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=pWt6wmRt5Ho)
 - [11.15.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=qtyJEg8kLdc)
+- [11.21.2023 - Semantic Kernel Office Hours (Asia-Pacific Region)](https://www.youtube.com/watch?v=PloQIND1jrI)
 - [Introduction to Semantic Kernel and Microsoft Fabric! (feat. Kinfey Lo)](https://www.youtube.com/watch?v=mCn0ie0z7EM)
 - [How to create a basic planner](https://www.youtube.com/watch?v=kdelXPl4i88)
 - [How to create a sequential planner using semantic kernel](https://www.youtube.com/watch?v=r-atDSeqLaI)
