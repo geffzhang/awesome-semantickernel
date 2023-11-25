@@ -82,6 +82,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [MerkonVectorDB](https://github.com/Gravicode/MerkonVectorDB/)
 - [bankcopilot-semantickernel-aiplugin](https://github.com/raffertyuy/bankcopilot-semantickernel-aiplugin) This is a Bank ChatGPT AI Plugin POC to observe how ChatGPT will perform with additional banking transaction skills
 - [FreeMindLabs.SemanticKernel.Connectors.Elasticsearch](https://github.com/freemindlabsinc/FreeMindLabs.SemanticKernel) A Semantic Kernel connector to Elasticsearch. Use Elasticsearch as your vector database.
+- [Postgres adapter for Kernel Memory](https://github.com/microsoft/kernel-memory-postgres)
 
 ## Planners
 sequences of actions that Semantic Kernel can execute to achieve a goal, such as booking a flight or writing some content.
