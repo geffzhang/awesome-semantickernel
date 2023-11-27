@@ -146,6 +146,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [A reference .NET application implementing an eCommerce web site using a services-based architecture](https://github.com/dotnet/eShop)
 - [VectorSearchAiAssistant](https://github.com/Netizine/VectorSearchAiAssistant) Vector Search & AI Assistant for Azure Cosmos DB and Azure Cognitive Search
 - [entirely with native functions in C# and am building out a console application with Spectre.Console](https://github.com/IntegerMan/BatComputer)
+- [enmarcha](https://github.com/Encamina/enmarcha) Empower your applications with AI capabilities built on top of the Semantic Kernel, enabling more nuanced data interpretation.
   
 ## Learn
 
