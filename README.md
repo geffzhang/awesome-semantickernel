@@ -147,6 +147,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [VectorSearchAiAssistant](https://github.com/Netizine/VectorSearchAiAssistant) Vector Search & AI Assistant for Azure Cosmos DB and Azure Cognitive Search
 - [entirely with native functions in C# and am building out a console application with Spectre.Console](https://github.com/IntegerMan/BatComputer)
 - [enmarcha](https://github.com/Encamina/enmarcha) Empower your applications with AI capabilities built on top of the Semantic Kernel, enabling more nuanced data interpretation.
+- [minecraft-container-apps](https://github.com/cmendible/minecraft-container-apps)
   
 ## Learn
 
@@ -170,6 +171,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [SKPlayground](https://github.com/brakmic/SKPlayground)
 - [AdventuresInSemanticKernel](https://github.com/HillPhelmuth/AdventuresInSemanticKernel) Learn about Semantic Kernel, Microsoft's AI orchestration library. Play with memories, models, plugins, and plans from various providers 
 - [understanding-semantic-kernel-with-heroes](https://github.com/0GiS0/understanding-semantic-kernel-with-heroes) Welcome to my own way to understand Semantic Kernel
+- [OpenAI-Workshop](https://github.com/kierunb/OpenAI-Workshop)
 
 
 ### Videos
