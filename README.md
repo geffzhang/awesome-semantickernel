@@ -83,6 +83,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [bankcopilot-semantickernel-aiplugin](https://github.com/raffertyuy/bankcopilot-semantickernel-aiplugin) This is a Bank ChatGPT AI Plugin POC to observe how ChatGPT will perform with additional banking transaction skills
 - [FreeMindLabs.SemanticKernel.Connectors.Elasticsearch](https://github.com/freemindlabsinc/FreeMindLabs.SemanticKernel) A Semantic Kernel connector to Elasticsearch. Use Elasticsearch as your vector database.
 - [Postgres adapter for Kernel Memory](https://github.com/microsoft/kernel-memory-postgres)
+- [Kernel Memory with SQLite](https://github.com/microsoft/kernel-memory-sqlite)This repository contains the SQLite adapter allowing to use Kernel Memory with SQLite
 
 ## Planners
 sequences of actions that Semantic Kernel can execute to achieve a goal, such as booking a flight or writing some content.
@@ -195,6 +196,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [11.08.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=pWt6wmRt5Ho)
 - [11.15.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=qtyJEg8kLdc)
 - [11.21.2023 - Semantic Kernel Office Hours (Asia-Pacific Region)](https://www.youtube.com/watch?v=PloQIND1jrI)
+- [11.29.2023 - Semantic Kernel Office Hours (US/Europe Region)](https://www.youtube.com/watch?v=JSca9mVUUJo)
 - [Introduction to Semantic Kernel and Microsoft Fabric! (feat. Kinfey Lo)](https://www.youtube.com/watch?v=mCn0ie0z7EM)
 - [How to create a basic planner](https://www.youtube.com/watch?v=kdelXPl4i88)
 - [How to create a sequential planner using semantic kernel](https://www.youtube.com/watch?v=r-atDSeqLaI)
@@ -208,6 +210,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Cozy AI Kitchen – Episode 1](https://www.youtube.com/watch?v=6Jr6z_YvJhc)
 - [Cozy AI Kitchen – Episode 2](https://youtu.be/TZ8wHF9iiuM?si=4bkN1tUj3WxCLtpG)
 - [Cozy AI Kitchen – Episode 3](https://youtu.be/vEXTWilW_sU?si=1VeVE1psho_M53_E)
+- [More reliable AI plans with the Handlebars Planner! | Intro to Semantic Kernel](https://www.youtube.com/watch?v=2VF6fUJ-HJw) 📢  New Handlebars Planner! Watch Teresa show off the latest handlebars planner in v1.0 of the Semantic Kernel which offers more customization and reliability for AI-generated plans!
 
 ### Articles
 - [Empowering AI with Semantic Kernel Planners for Seamless Orchestration](https://medium.com/@akshaykokane09/empowering-ai-with-semantic-kernel-planners-for-seamless-orchestration-1c7ad35f2337)
@@ -235,6 +238,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Introducing Semantic Kernel](https://thwanisithole.co.za/posts/introducing-semantic-kernel/)
 - [Build your AI First Apps with Semantic Kernel](https://arafattehsin.com/build-your-ai-first-apps-with-semantic-kernel/)
 - [Evaluate your LLM Prompt Chains with Promptflow + Semantic Kernel!](https://www.youtube.com/watch?v=BlOBjm761I0)
+- [Getting Started with Semantic Kernel and C#](https://accessibleai.dev/post/introtosemantickernel/)
 
 ## Complement to this list
 
