@@ -173,6 +173,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [AdventuresInSemanticKernel](https://github.com/HillPhelmuth/AdventuresInSemanticKernel) Learn about Semantic Kernel, Microsoft's AI orchestration library. Play with memories, models, plugins, and plans from various providers 
 - [understanding-semantic-kernel-with-heroes](https://github.com/0GiS0/understanding-semantic-kernel-with-heroes) Welcome to my own way to understand Semantic Kernel
 - [OpenAI-Workshop](https://github.com/kierunb/OpenAI-Workshop)
+- [Integrate OpenAI into Your Code with Semantic Kernel](https://github.com/feaselkl/Integrate-OpenAI-into-Your-Code-with-Semantic-Kernel)
 
 
 ### Videos
