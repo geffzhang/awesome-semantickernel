@@ -149,6 +149,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [entirely with native functions in C# and am building out a console application with Spectre.Console](https://github.com/IntegerMan/BatComputer)
 - [enmarcha](https://github.com/Encamina/enmarcha) Empower your applications with AI capabilities built on top of the Semantic Kernel, enabling more nuanced data interpretation.
 - [minecraft-container-apps](https://github.com/cmendible/minecraft-container-apps)
+- [AugmentR](https://github.com/bradygaster/AugmentR)Sample showing how to do Retrieval Augmented Generation using .NET Aspire, Semantic Kernel, and OpenAI.
   
 ## Learn
 
