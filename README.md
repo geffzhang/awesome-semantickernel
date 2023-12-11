@@ -84,6 +84,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [FreeMindLabs.SemanticKernel.Connectors.Elasticsearch](https://github.com/freemindlabsinc/FreeMindLabs.SemanticKernel) A Semantic Kernel connector to Elasticsearch. Use Elasticsearch as your vector database.
 - [Postgres adapter for Kernel Memory](https://github.com/microsoft/kernel-memory-postgres)
 - [Kernel Memory with SQLite](https://github.com/microsoft/kernel-memory-sqlite)This repository contains the SQLite adapter allowing to use Kernel Memory with SQLite
+- [Plugin sample built using Semantic Kernel that summarises a given text from Bing Web Search.](https://github.com/vicperdana/sk-bingsummary-plugin)
 
 ## Planners
 sequences of actions that Semantic Kernel can execute to achieve a goal, such as booking a flight or writing some content.
