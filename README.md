@@ -153,6 +153,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [AugmentR](https://github.com/bradygaster/AugmentR)Sample showing how to do Retrieval Augmented Generation using .NET Aspire, Semantic Kernel, and OpenAI.]
 - [sk-v1-droneAssistant](https://github.com/elbruno/sk-v1-droneAssistant) Semantic Kernel V1 Assistant to control DJI Tello Drone
 - [TerraMours实战项目，基于TerraMours框架实现的ChatGPT项目后端。实现用户登陆和基于SK的多语言模型聊天、基于chatgpt和SD的多模型图片生成等功能](https://github.com/TerraMours/TerraMours_Gpt_Api)
+- [ENMARCHA — Your package to accelerate .NET projects](https://github.com/Encamina/enmarcha)
   
 ## Learn
 
