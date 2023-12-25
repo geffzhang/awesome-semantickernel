@@ -154,6 +154,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [sk-v1-droneAssistant](https://github.com/elbruno/sk-v1-droneAssistant) Semantic Kernel V1 Assistant to control DJI Tello Drone
 - [TerraMours实战项目，基于TerraMours框架实现的ChatGPT项目后端。实现用户登陆和基于SK的多语言模型聊天、基于chatgpt和SD的多模型图片生成等功能](https://github.com/TerraMours/TerraMours_Gpt_Api)
 - [ENMARCHA — Your package to accelerate .NET projects](https://github.com/Encamina/enmarcha)
+- [知识文档问答，用大模型与文档对话，提供Al分析、阅读、问答工具，助你快速了解文档内容](https://github.com/bianchenglequ/chat2KnowL)
   
 ## Learn
 
