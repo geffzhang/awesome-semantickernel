@@ -158,6 +158,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [ENMARCHA — Your package to accelerate .NET projects](https://github.com/Encamina/enmarcha)
 - [知识文档问答，用大模型与文档对话，提供Al分析、阅读、问答工具，助你快速了解文档内容](https://github.com/bianchenglequ/chat2KnowL)
 - [SemanticKernel.Assistants](https://github.com/kbeaugrand/SemanticKernel.Assistants) It runs locally planners and plugins for the assistants
+- [Sample showing how to do Retrieval Augmented Generation using .NET Aspire, Semantic Kernel, and OpenAI.](https://github.com/bradygaster/AugmentR)
   
 ## Learn
 
