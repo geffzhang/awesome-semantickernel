@@ -256,6 +256,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Getting Started with Semantic Kernel and C#](https://accessibleai.dev/post/introtosemantickernel/)
 - [How to enhance your chatbot so it can retrieve data from multiple data sources & orchestrate its own plan with C# Semantic Kernel, planner & Azure OpenAI – part 1](https://jordanbeandev.com/how-to-build-your-own-chatbot-using-c-semantic-kernel-azure-openai-part-1/)
 - [Semantic Kernel: The New Way to Create Artificial Intelligence Applications](https://medium.com/globant/semantic-kernel-the-new-way-to-create-artificial-intelligence-applications-7959d5fc90ca)
+- [If you are a .NET Developer, you are an AI Developer! (with Semantic Kernel)](https://www.linkedin.com/pulse/you-net-developer-ai-semantic-kernel-jose-luis-latorre-hlh4e/)
 
 ## Complement to this list
 
