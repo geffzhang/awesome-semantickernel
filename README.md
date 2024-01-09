@@ -85,6 +85,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [FreeMindLabs.SemanticKernel.Connectors.Elasticsearch](https://github.com/freemindlabsinc/FreeMindLabs.SemanticKernel) A Semantic Kernel connector to Elasticsearch. Use Elasticsearch as your vector database.
 - [Postgres adapter for Kernel Memory](https://github.com/microsoft/kernel-memory-postgres)
 - [Kernel Memory with SQLite](https://github.com/microsoft/kernel-memory-sqlite)This repository contains the SQLite adapter allowing to use Kernel Memory with SQLite
+- [SemanticKernel.Connectors.Memory.SqlServer](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer)SQL Server connector for Semantic Kernel plugin and Kernel Memory
 - [Plugin sample built using Semantic Kernel that summarises a given text from Bing Web Search.](https://github.com/vicperdana/sk-bingsummary-plugin)
 - [Codeblaze.SemanticKernel](https://github.com/BLaZeKiLL/Codeblaze.SemanticKernel)
 - [PaddleSharp.KernelMemory](https://github.com/xbotter/PaddleSharp.KernelMemory)Using PaddleSharp as an OCR engine in kernel memory.
@@ -257,6 +258,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [How to enhance your chatbot so it can retrieve data from multiple data sources & orchestrate its own plan with C# Semantic Kernel, planner & Azure OpenAI – part 1](https://jordanbeandev.com/how-to-build-your-own-chatbot-using-c-semantic-kernel-azure-openai-part-1/)
 - [Semantic Kernel: The New Way to Create Artificial Intelligence Applications](https://medium.com/globant/semantic-kernel-the-new-way-to-create-artificial-intelligence-applications-7959d5fc90ca)
 - [If you are a .NET Developer, you are an AI Developer! (with Semantic Kernel)](https://www.linkedin.com/pulse/you-net-developer-ai-semantic-kernel-jose-luis-latorre-hlh4e/)
+- [Getting Started with Semantic Kernel and C#](https://accessibleai.dev/post/introtosemantickernel/)
 
 ## Complement to this list
 
