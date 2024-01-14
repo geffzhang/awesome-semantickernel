@@ -161,6 +161,8 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [知识文档问答，用大模型与文档对话，提供Al分析、阅读、问答工具，助你快速了解文档内容](https://github.com/bianchenglequ/chat2KnowL)
 - [SemanticKernel.Assistants](https://github.com/kbeaugrand/SemanticKernel.Assistants) It runs locally planners and plugins for the assistants
 - [Sample showing how to do Retrieval Augmented Generation using .NET Aspire, Semantic Kernel, and OpenAI.](https://github.com/bradygaster/AugmentR)
+- [Adventures in Semantic Kernel](https://github.com/HillPhelmuth/AdventuresInSemanticKernel) Learn about Semantic Kernel, Microsoft's AI orchestration library. Play with memories, models, plugins, and plans from various providers.
+- [semantic-kernel-aiagent](https://github.com/xuzeyu91/semantic-kernel-aiagent) 基于.Net8+Blazor+SemanticKernel 打造的AI知识库/智能体
   
 ## Learn
 
