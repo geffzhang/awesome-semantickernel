@@ -263,6 +263,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Semantic Kernel: The New Way to Create Artificial Intelligence Applications](https://medium.com/globant/semantic-kernel-the-new-way-to-create-artificial-intelligence-applications-7959d5fc90ca)
 - [If you are a .NET Developer, you are an AI Developer! (with Semantic Kernel)](https://www.linkedin.com/pulse/you-net-developer-ai-semantic-kernel-jose-luis-latorre-hlh4e/)
 - [Getting Started with Semantic Kernel and C#](https://accessibleai.dev/post/introtosemantickernel/)
+- [Using Semantic Kernel with an open-source LLM](https://www.developerscantina.com/p/semantic-kernel-open-source-llms/)
 
 ## Complement to this list
 
