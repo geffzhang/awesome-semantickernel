@@ -164,6 +164,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Adventures in Semantic Kernel](https://github.com/HillPhelmuth/AdventuresInSemanticKernel) Learn about Semantic Kernel, Microsoft's AI orchestration library. Play with memories, models, plugins, and plans from various providers.
 - [semantic-kernel-aiagent](https://github.com/xuzeyu91/semantic-kernel-aiagent) 基于.Net8+Blazor+SemanticKernel 打造的AI知识库/智能体
 - [An example of how to use Semantic Kernel as part of a Hotel booking website for filtering hotels using natural language](https://github.com/Azure-For-Everyone/sk-hotelfiltering)
+- [Kernel-Memory-Azure-Function-Implementation](https://github.com/Gpadh/Kernel-Memory-Azure-Function-Implementation)
   
 ## Learn
 
