@@ -95,6 +95,7 @@ sequences of actions that Semantic Kernel can execute to achieve a goal, such as
 - [Introduction to Semantic Kernel Planners for Seamless Orchestration](https://medium.com/@akshaykokane09/empowering-ai-with-semantic-kernel-planners-for-seamless-orchestration-1c7ad35f2337)
 - [Semantic Kernel Planner 101](https://blog.baeke.info/2023/06/01/semantic-kernel-planner-101/)
 - [Using Planners in the SK Java Kernel](https://devblogs.microsoft.com/semantic-kernel/using-planners-in-the-sk-java-kernel/)
+- [UniversalLLMFunctionCaller](https://github.com/Jenscaasen/UniversalLLMFunctionCaller) A planner that integrates into Semantic Kernel to enable function calling on all Chat based LLMs (Mistral, Bard, Claude, LLama etc)
 
 ## Personas 
 profiles that define the preferences and personality of Semantic Kernel, such as tone, style, and humor
@@ -165,6 +166,8 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [semantic-kernel-aiagent](https://github.com/xuzeyu91/semantic-kernel-aiagent) 基于.Net8+Blazor+SemanticKernel 打造的AI知识库/智能体
 - [An example of how to use Semantic Kernel as part of a Hotel booking website for filtering hotels using natural language](https://github.com/Azure-For-Everyone/sk-hotelfiltering)
 - [Kernel-Memory-Azure-Function-Implementation](https://github.com/Gpadh/Kernel-Memory-Azure-Function-Implementation)
+- [OpenAIEmbeddingSample](https://github.com/marcominerva/OpenAIEmbeddingSample) An example that shows how to use Semantic Kernel and Kernel Memory to work with embeddings in a .NET application using SQL Server as Vector Database.
+- [AntSK](https://github.com/xuzeyu91/AntSK) 基于.Net8+AntBlazor+SemanticKernel 打造的AI知识库/智能体
   
 ## Learn
 
