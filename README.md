@@ -193,7 +193,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [understanding-semantic-kernel-with-heroes](https://github.com/0GiS0/understanding-semantic-kernel-with-heroes) Welcome to my own way to understand Semantic Kernel
 - [OpenAI-Workshop](https://github.com/kierunb/OpenAI-Workshop)
 - [Integrate OpenAI into Your Code with Semantic Kernel](https://github.com/feaselkl/Integrate-OpenAI-into-Your-Code-with-Semantic-Kernel)
-
+- [Generative AI for Developers (Semantic Kernel with C#)](https://github.com/arafattehsin/generative-ai/tree/main/notebooks/semantic-kernel)
 
 ### Videos
 - [A Lightweight SDK for Integrating AI Models and Plugins](https://thedataexchange.media/semantic-kernel/amp/)
@@ -237,6 +237,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Cozy AI Kitchen – Episode 2](https://youtu.be/TZ8wHF9iiuM?si=4bkN1tUj3WxCLtpG)
 - [Cozy AI Kitchen – Episode 3](https://youtu.be/vEXTWilW_sU?si=1VeVE1psho_M53_E)
 - [More reliable AI plans with the Handlebars Planner! | Intro to Semantic Kernel](https://www.youtube.com/watch?v=2VF6fUJ-HJw) 📢  New Handlebars Planner! Watch Teresa show off the latest handlebars planner in v1.0 of the Semantic Kernel which offers more customization and reliability for AI-generated plans!
+- [GuessWhat! An AI guessing game with .NET MAUI](https://www.youtube.com/watch?v=a6WcU0QwfHM&t=7s&ab_channel=AlexChao)
 
 ### Articles
 - [Empowering AI with Semantic Kernel Planners for Seamless Orchestration](https://medium.com/@akshaykokane09/empowering-ai-with-semantic-kernel-planners-for-seamless-orchestration-1c7ad35f2337)
@@ -270,6 +271,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [If you are a .NET Developer, you are an AI Developer! (with Semantic Kernel)](https://www.linkedin.com/pulse/you-net-developer-ai-semantic-kernel-jose-luis-latorre-hlh4e/)
 - [Getting Started with Semantic Kernel and C#](https://accessibleai.dev/post/introtosemantickernel/)
 - [Using Semantic Kernel with an open-source LLM](https://www.developerscantina.com/p/semantic-kernel-open-source-llms/)
+- [Build your AI First Apps with Semantic Kernel](https://arafattehsin.com/build-your-ai-first-apps-with-semantic-kernel/)
 
 ## Complement to this list
 
