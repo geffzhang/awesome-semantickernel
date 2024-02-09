@@ -194,6 +194,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [OpenAI-Workshop](https://github.com/kierunb/OpenAI-Workshop)
 - [Integrate OpenAI into Your Code with Semantic Kernel](https://github.com/feaselkl/Integrate-OpenAI-into-Your-Code-with-Semantic-Kernel)
 - [Generative AI for Developers (Semantic Kernel with C#)](https://github.com/arafattehsin/generative-ai/tree/main/notebooks/semantic-kernel)
+- [How to use Semantic Kernel Bot in-a-box to interact with data using natural language & AI](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-use-semantic-kernel-bot-in-a-box-to-interact-with-data/ba-p/4050641)
 
 ### Videos
 - [A Lightweight SDK for Integrating AI Models and Plugins](https://thedataexchange.media/semantic-kernel/amp/)
