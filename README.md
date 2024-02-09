@@ -274,6 +274,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Getting Started with Semantic Kernel and C#](https://accessibleai.dev/post/introtosemantickernel/)
 - [Using Semantic Kernel with an open-source LLM](https://www.developerscantina.com/p/semantic-kernel-open-source-llms/)
 - [Build your AI First Apps with Semantic Kernel](https://arafattehsin.com/build-your-ai-first-apps-with-semantic-kernel/)
+- [Semantic Kernel: Integrating Conversational AI into Enterprise Apps using DotNet, Python, and Java](https://inmeta.medium.com/semantic-kernel-integrating-conversational-ai-into-enterprise-apps-using-dotnet-python-and-java-3ac7752bbe71)
 
 ## Complement to this list
 
