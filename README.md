@@ -168,6 +168,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Kernel-Memory-Azure-Function-Implementation](https://github.com/Gpadh/Kernel-Memory-Azure-Function-Implementation)
 - [OpenAIEmbeddingSample](https://github.com/marcominerva/OpenAIEmbeddingSample) An example that shows how to use Semantic Kernel and Kernel Memory to work with embeddings in a .NET application using SQL Server as Vector Database.
 - [AntSK](https://github.com/xuzeyu91/AntSK) 基于.Net8+AntBlazor+SemanticKernel 打造的AI知识库/智能体
+- [NET Conf 2023 Taiwan — Semantic Kernel](https://github.com/iangithub/sklearn/tree/main/NetConf2023)
   
 ## Learn
 
