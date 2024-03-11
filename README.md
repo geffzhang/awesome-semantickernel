@@ -170,6 +170,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [OpenAIEmbeddingSample](https://github.com/marcominerva/OpenAIEmbeddingSample) An example that shows how to use Semantic Kernel and Kernel Memory to work with embeddings in a .NET application using SQL Server as Vector Database.
 - [AntSK](https://github.com/xuzeyu91/AntSK) 基于.Net8+AntBlazor+SemanticKernel 打造的AI知识库/智能体
 - [NET Conf 2023 Taiwan — Semantic Kernel](https://github.com/iangithub/sklearn/tree/main/NetConf2023)
+- [fast-wiki](https://github.com/239573049/fast-wiki) 利用微软Semantic Kernel进行深度学习和自然语言处理，结合.NET 8和MasaBlazor于react并存框架，后台采用MasaFramework，实现了一个高效、易用、可扩展的智能向量搜索平台
   
 ## Learn
 
