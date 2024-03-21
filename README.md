@@ -172,6 +172,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [NET Conf 2023 Taiwan — Semantic Kernel](https://github.com/iangithub/sklearn/tree/main/NetConf2023)
 - [fast-wiki](https://github.com/239573049/fast-wiki) 利用微软Semantic Kernel进行深度学习和自然语言处理，结合.NET 8和MasaBlazor于react并存框架，后台采用MasaFramework，实现了一个高效、易用、可扩展的智能向量搜索平台
 - [dotnet-llm-eval-samples](https://github.com/microsoft/dotnet-llm-eval-samples) Samples of how to eval and observe dotnet large language model systems
+- [OllamaWithSemanticKernel](https://github.com/antonylu0826/OllamaWithSemanticKernel) C# SemanticKernel 連接 Ollama 使用 Gemma 開源模型
   
 ## Learn
 
