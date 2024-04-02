@@ -175,6 +175,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [OllamaWithSemanticKernel](https://github.com/antonylu0826/OllamaWithSemanticKernel) C# SemanticKernel 連接 Ollama 使用 Gemma 開源模型  
 - [.NET 8 Isolated - Durable Functions + Semantic Kernel Integration Project](https://github.com/AndreRatzenberger/DurableFunctions.SemanticKernel)
 - [Using Semantic Kernel with local LLMs](https://github.com/elbruno/semantickernel-localLLMs)
+- [BlazorGPT is a Blazor Server application that uses the ChatGPT 3.5 or ChatGPT-4 API](https://github.com/magols/BlazorGPT)
 
 ## Learn
 
