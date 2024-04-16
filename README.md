@@ -177,6 +177,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [.NET 8 Isolated - Durable Functions + Semantic Kernel Integration Project](https://github.com/AndreRatzenberger/DurableFunctions.SemanticKernel)
 - [Using Semantic Kernel with local LLMs](https://github.com/elbruno/semantickernel-localLLMs)
 - [BlazorGPT is a Blazor Server application that uses the ChatGPT 3.5 or ChatGPT-4 API](https://github.com/magols/BlazorGPT)
+- [dsl-copilot](https://github.com/microsoft/dsl-copilot)
 
 ## Learn
 
