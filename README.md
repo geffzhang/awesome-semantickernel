@@ -178,6 +178,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Using Semantic Kernel with local LLMs](https://github.com/elbruno/semantickernel-localLLMs)
 - [BlazorGPT is a Blazor Server application that uses the ChatGPT 3.5 or ChatGPT-4 API](https://github.com/magols/BlazorGPT)
 - [dsl-copilot](https://github.com/microsoft/dsl-copilot)
+- [OpenAIExtensions](https://github.com/durmisi/OpenAIExtensions) AI Services & Extensions developed on top of Azure Open AI & SemanticKernel
 
 ## Learn
 
