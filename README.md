@@ -91,6 +91,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [PaddleSharp.KernelMemory](https://github.com/xbotter/PaddleSharp.KernelMemory)Using PaddleSharp as an OCR engine in kernel memory.
 - [SemanticKernel.DashScope](https://github.com/cnblogs/semantic-kernel-dashscope) 连接 DashScope 的 Semantic Kernel Connector
 - [KernelMemory.Playwright is an open-source project that provides methods to import websites as text or images into memory](https://github.com/managedcode/KernelMemory.Playwright)
+- [Connectors and plugins for integrating large language models via Semantic Kernel](https://github.com/atc-net/atc-semantic-kernel)
 
 ## Planners
 sequences of actions that Semantic Kernel can execute to achieve a goal, such as booking a flight or writing some content.
