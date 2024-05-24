@@ -181,6 +181,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [dsl-copilot](https://github.com/microsoft/dsl-copilot)
 - [OpenAIExtensions](https://github.com/durmisi/OpenAIExtensions) AI Services & Extensions developed on top of Azure Open AI & SemanticKernel
 - [Experimental AI Agents Framework](https://github.com/microsoft/project-oagents/)
+- [https://github.com/markrussinovich/DesktopOrganizerBot](This is the code repo used in the Scott and Mark learn AI session at Microsoft Build 2024. Check the session recording here: https://www.youtube.com/watch?v=KKWPSkYN3vw)
 
 ## Learn
 
