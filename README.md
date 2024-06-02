@@ -15,6 +15,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Plugins](#plugins)
   - [Planners](#Planners)
   - [Personas](#Personas)
+  - [Autogen](#autogen)
   - [Open Source Projects](#open-source-projects)
   - [Learn](#learn)
     - [Notebooks](#notebooks)
@@ -104,6 +105,10 @@ sequences of actions that Semantic Kernel can execute to achieve a goal, such as
 profiles that define the preferences and personality of Semantic Kernel, such as tone, style, and humor
 - [SKPersona](https://github.com/anthonypuppo/skpersona) Demonstration of how to give Language Models (LLMs) a unique persona using part of speech tagging and logit bias
 - [Semantic Kernel Personas: An Interview with SK Team Member Brian Krabach](https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-personas-an-interview-with-sk-team-member-brian-krabach/)
+
+## Autogen
+- [A programming framework for agentic AI](https://github.com/microsoft/autogen/tree/main/dotnet)
+- [A cli chatroom for AutoGen agents](https://github.com/LittleLittleCloud/Agent-ChatRoom)
 
 ## Open Source Projects
 - [Copilot Chat Sample Application](https://github.com/microsoft/chat-copilot):This is an enriched intelligence app, with multiple dynamic components including command messages, user intent, and memories
