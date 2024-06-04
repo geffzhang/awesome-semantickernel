@@ -187,6 +187,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [OpenAIExtensions](https://github.com/durmisi/OpenAIExtensions) AI Services & Extensions developed on top of Azure Open AI & SemanticKernel
 - [Experimental AI Agents Framework](https://github.com/microsoft/project-oagents/)
 - [https://github.com/markrussinovich/DesktopOrganizerBot](This is the code repo used in the Scott and Mark learn AI session at Microsoft Build 2024)
+- [Semantic Kernel 培训示例代码](https://github.com/Regularly-Archive/2024/tree/main/SK.Training)
 
 ## Learn
 
