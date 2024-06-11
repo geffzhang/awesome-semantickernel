@@ -268,6 +268,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Cozy AI Kitchen – Episode 3](https://youtu.be/vEXTWilW_sU?si=1VeVE1psho_M53_E)
 - [More reliable AI plans with the Handlebars Planner! | Intro to Semantic Kernel](https://www.youtube.com/watch?v=2VF6fUJ-HJw) 📢  New Handlebars Planner! Watch Teresa show off the latest handlebars planner in v1.0 of the Semantic Kernel which offers more customization and reliability for AI-generated plans!
 - [GuessWhat! An AI guessing game with .NET MAUI](https://www.youtube.com/watch?v=a6WcU0QwfHM&t=7s&ab_channel=AlexChao)
+- [Build AI apps the easy way with Semantic Kernel SDK](https://www.youtube.com/watch?v=7xOAc_twiAQ)
 
 ### Articles
 - [Empowering AI with Semantic Kernel Planners for Seamless Orchestration](https://medium.com/@akshaykokane09/empowering-ai-with-semantic-kernel-planners-for-seamless-orchestration-1c7ad35f2337)
