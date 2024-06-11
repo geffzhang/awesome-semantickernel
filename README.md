@@ -215,6 +215,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Integrate OpenAI into Your Code with Semantic Kernel](https://github.com/feaselkl/Integrate-OpenAI-into-Your-Code-with-Semantic-Kernel)
 - [Generative AI for Developers (Semantic Kernel with C#)](https://github.com/arafattehsin/generative-ai/tree/main/notebooks/semantic-kernel)
 - [How to use Semantic Kernel Bot in-a-box to interact with data using natural language & AI](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-use-semantic-kernel-bot-in-a-box-to-interact-with-data/ba-p/4050641)
+- [AspireShop](https://github.com/dotnet/aspire-samples/tree/main/samples/AspireShop)
 
 ### Videos
 - [A Lightweight SDK for Integrating AI Models and Plugins](https://thedataexchange.media/semantic-kernel/amp/)
@@ -301,6 +302,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Using Semantic Kernel with an open-source LLM](https://www.developerscantina.com/p/semantic-kernel-open-source-llms/)
 - [Build your AI First Apps with Semantic Kernel](https://arafattehsin.com/build-your-ai-first-apps-with-semantic-kernel/)
 - [Semantic Kernel: Integrating Conversational AI into Enterprise Apps using DotNet, Python, and Java](https://inmeta.medium.com/semantic-kernel-integrating-conversational-ai-into-enterprise-apps-using-dotnet-python-and-java-3ac7752bbe71)
+- [Build AI Applications with ease using Semantic Kernel and .NET Aspire]([Build AI Applications with ease using Semantic Kernel and .NET Aspire](https://devblogs.microsoft.com/semantic-kernel/build-ai-applications-with-ease-using-semantic-kernel-and-net-aspire/))
 
 ## Complement to this list
 
