@@ -189,6 +189,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [https://github.com/markrussinovich/DesktopOrganizerBot](This is the code repo used in the Scott and Mark learn AI session at Microsoft Build 2024)
 - [Semantic Kernel 培训示例代码](https://github.com/Regularly-Archive/2024/tree/main/SK.Training)
 - [RichasyAssistant](https://github.com/Richasy/RichasyAssistant)
+- [Semantic Kernel Microservice Quick-Start](https://github.com/goodtocode/semantickernel-microservice)
 
 ## Learn
 
@@ -305,6 +306,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Build your AI First Apps with Semantic Kernel](https://arafattehsin.com/build-your-ai-first-apps-with-semantic-kernel/)
 - [Semantic Kernel: Integrating Conversational AI into Enterprise Apps using DotNet, Python, and Java](https://inmeta.medium.com/semantic-kernel-integrating-conversational-ai-into-enterprise-apps-using-dotnet-python-and-java-3ac7752bbe71)
 - [Build AI Applications with ease using Semantic Kernel and .NET Aspire]([Build AI Applications with ease using Semantic Kernel and .NET Aspire](https://devblogs.microsoft.com/semantic-kernel/build-ai-applications-with-ease-using-semantic-kernel-and-net-aspire/))
+- [Step-by-Step Guide to Develop AI Multi-Agent System Using Microsoft Semantic Kernel and GPT-4](https://github.com/akshaykokane/MultiAIAgentSystem)
 
 ## Complement to this list
 
