@@ -191,6 +191,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Semantic Kernel 培训示例代码](https://github.com/Regularly-Archive/2024/tree/main/SK.Training)
 - [RichasyAssistant](https://github.com/Richasy/RichasyAssistant)
 - [Semantic Kernel Microservice Quick-Start](https://github.com/goodtocode/semantickernel-microservice)
+- [Retail Brand Assistant using Semantic Kernel, Open AI, and Bing CustomSearch]([Retail Brand Assistant using Semantic Kernel, Open AI, and Bing CustomSearch](https://github.com/function1st/retailbrandassistant-public))
 
 ## Learn
 
