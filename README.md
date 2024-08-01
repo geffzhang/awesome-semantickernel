@@ -191,7 +191,8 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Semantic Kernel 培训示例代码](https://github.com/Regularly-Archive/2024/tree/main/SK.Training)
 - [RichasyAssistant](https://github.com/Richasy/RichasyAssistant)
 - [Semantic Kernel Microservice Quick-Start](https://github.com/goodtocode/semantickernel-microservice)
-- [Retail Brand Assistant using Semantic Kernel, Open AI, and Bing CustomSearch]([Retail Brand Assistant using Semantic Kernel, Open AI, and Bing CustomSearch](https://github.com/function1st/retailbrandassistant-public))
+- [Retail Brand Assistant using Semantic Kernel, Open AI, and Bing CustomSearch](https://github.com/function1st/retailbrandassistant-public)
+- [Adding AI to Your Existing .NET Apps - Workshop](https://github.com/elbruno/ws-add-ai-to-net-apps)
 
 ## Learn
 
@@ -220,6 +221,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Generative AI for Developers (Semantic Kernel with C#)](https://github.com/arafattehsin/generative-ai/tree/main/notebooks/semantic-kernel)
 - [How to use Semantic Kernel Bot in-a-box to interact with data using natural language & AI](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-use-semantic-kernel-bot-in-a-box-to-interact-with-data/ba-p/4050641)
 - [AspireShop](https://github.com/dotnet/aspire-samples/tree/main/samples/AspireShop)
+
 
 ### Videos
 - [A Lightweight SDK for Integrating AI Models and Plugins](https://thedataexchange.media/semantic-kernel/amp/)
