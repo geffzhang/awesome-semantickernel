@@ -193,6 +193,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Semantic Kernel Microservice Quick-Start](https://github.com/goodtocode/semantickernel-microservice)
 - [Retail Brand Assistant using Semantic Kernel, Open AI, and Bing CustomSearch](https://github.com/function1st/retailbrandassistant-public)
 - [Adding AI to Your Existing .NET Apps - Workshop](https://github.com/elbruno/ws-add-ai-to-net-apps)
+- [SemanticKernelLearningApp](https://github.com/Pratik-Shah/SemanticKernelLearningApp) This project includes several agents, plugins, and planners to provide a comprehensive learning experience
 
 ## Learn
 
