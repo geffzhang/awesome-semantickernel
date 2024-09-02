@@ -40,6 +40,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [SK Extensibility Scenarios](https://github.com/matthewbolanos/sk-v1-proposal)  how to extend several Semantic Kernel interfaces and to use them in core scenarios.
 - [Generative AI Learning for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) A 12 Lesson course teaching everything you need to know to start building Generative AI applications
 - [skUnit is a testing tool for SemanticKernel units, such as plugin functions and kernels](https://github.com/mehrandvd/skunit)
+- [Elsa agent module](https://github.com/elsa-workflows/elsa-core)
 
 ## Plugins
  modules that connect Semantic Kernel to different AI models or services, such as GPT-3, Azure Prompt Flow, or the Microsoft Graph
