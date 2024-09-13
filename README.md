@@ -315,6 +315,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Build AI Applications with ease using Semantic Kernel and .NET Aspire]([Build AI Applications with ease using Semantic Kernel and .NET Aspire](https://devblogs.microsoft.com/semantic-kernel/build-ai-applications-with-ease-using-semantic-kernel-and-net-aspire/))
 - [Step-by-Step Guide to Develop AI Multi-Agent System Using Microsoft Semantic Kernel and GPT-4](https://github.com/akshaykokane/MultiAIAgentSystem)
 - [Add AI to Your .NET Apps Easily with Prompty](https://devblogs.microsoft.com/dotnet/add-ai-to-your-dotnet-apps-easily-with-prompty/?WT.mc_id=academic-00000-brunocapuano)
+- [Introducing new Ollama Connector for Local Models](https://devblogs.microsoft.com/semantic-kernel/introducing-new-ollama-connector-for-local-models/)
 
 ## Complement to this list
 
