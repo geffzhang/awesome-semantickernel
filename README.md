@@ -196,6 +196,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Adding AI to Your Existing .NET Apps - Workshop](https://github.com/elbruno/ws-add-ai-to-net-apps)
 - [SemanticKernelLearningApp](https://github.com/Pratik-Shah/SemanticKernelLearningApp) This project includes several agents, plugins, and planners to provide a comprehensive learning experience
 - [SemanticPluginForge](https://github.com/lsiddiquee/SemanticPluginForge) SemanticPluginForge adds functionality to dynamically alter the metadata for SemanticKernel plugins
+- [micronaire](https://github.com/microsoft/micronaire) A RAG evaluation pipeline for Semantic Kernel
 
 ## Learn
 
