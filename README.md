@@ -198,6 +198,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [SemanticPluginForge](https://github.com/lsiddiquee/SemanticPluginForge) SemanticPluginForge adds functionality to dynamically alter the metadata for SemanticKernel plugins
 - [micronaire](https://github.com/microsoft/micronaire) A RAG evaluation pipeline for Semantic Kernel
 - [AI Empowerlabs Studio](https://github.com/AI-Empower-Labs/Studio) How to use AI Empower Labs studio
+- [.NET + AI - Video Analyser](https://github.com/Azure-Samples/netaivideoanalyzer)
 
 ## Learn
 
