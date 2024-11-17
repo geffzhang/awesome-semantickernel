@@ -199,6 +199,9 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [micronaire](https://github.com/microsoft/micronaire) A RAG evaluation pipeline for Semantic Kernel
 - [AI Empowerlabs Studio](https://github.com/AI-Empower-Labs/Studio) How to use AI Empower Labs studio
 - [.NET + AI - Video Analyser](https://github.com/Azure-Samples/netaivideoanalyzer)
+- [BlazorGPT](https://github.com/magols/BlazorGPT) BlazorGPT is a Blazor Server application that uses Semantic Kernel plus OpenAI, Azure OpenAI and Ollama for inference and embeddings.
+- [AI Developer - Azure Open AI and Semantic Kernel Fundamentals](https://github.com/microsoft/ai-developer)
+- [CustomerJourneyGenAI](https://github.com/fwickert/CustomerJourneyGenAI) Application Demo using Semantic Kernel and LLM : Marketing, Recommandation and Customer Service use cases
 
 ## Learn
 
