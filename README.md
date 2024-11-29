@@ -206,6 +206,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [AI Developer - Azure Open AI and Semantic Kernel Fundamentals](https://github.com/microsoft/ai-developer)
 - [CustomerJourneyGenAI](https://github.com/fwickert/CustomerJourneyGenAI) Application Demo using Semantic Kernel and LLM : Marketing, Recommandation and Customer Service use cases
 - [Build a RAG App using Semantic Kernel, Entity Framework and Azure SQL DB](https://github.com/JasonHaley/develop-rag-app-sk-ef-azure-sql-db)
+- [SimpleRAG](https://github.com/Ming-jiayou/SimpleRAG)A simple RAG and Function Calling demo based on WPF and Semantic Kernel.
 
 ## Learn
 
