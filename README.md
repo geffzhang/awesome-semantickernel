@@ -208,6 +208,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Build a RAG App using Semantic Kernel, Entity Framework and Azure SQL DB](https://github.com/JasonHaley/develop-rag-app-sk-ef-azure-sql-db)
 - [SimpleRAG](https://github.com/Ming-jiayou/SimpleRAG)A simple RAG and Function Calling demo based on WPF and Semantic Kernel.
 - [eShopLite-SemanticSearch-AzureAISearch](https://github.com/Azure-Samples/eShopLite-SemanticSearch-AzureAISearch) eShopLite - Semantic Search - Azure AI Search is a reference .NET application implementing an eCommerce site with Search features using Keyword Search with SQL queries, and Semantic Search with Vector Database and Azure AI Search
+- [Document-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/Document-Knowledge-Mining-Solution-Accelerator) This solution accelerator helps you ingest, extract, and classify content from a high volume of assets to gain deeper insights and generate relevant suggestions for quick and easy reasoning
 
 ## Learn
 
