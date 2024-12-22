@@ -237,7 +237,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Generative AI for Developers (Semantic Kernel with C#)](https://github.com/arafattehsin/generative-ai/tree/main/notebooks/semantic-kernel)
 - [How to use Semantic Kernel Bot in-a-box to interact with data using natural language & AI](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-use-semantic-kernel-bot-in-a-box-to-interact-with-data/ba-p/4050641)
 - [AspireShop](https://github.com/dotnet/aspire-samples/tree/main/samples/AspireShop)
-
+- [ai-agents-workshop](https://github.com/denniszielke/ai-agents-workshop) AI Agents hands on workshop
 
 ### Videos
 - [A Lightweight SDK for Integrating AI Models and Plugins](https://thedataexchange.media/semantic-kernel/amp/)
