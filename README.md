@@ -98,6 +98,7 @@ and encourage developers to use them for their own applications. This hackathon 
 - [Thor(雷神托尔) 是一款强大的人工智能模型管理工具，其主要目的是为了实现多种AI模型的统一管理和使用,兼容OpenAI的接口格式](https://github.com/AIDotNet/Thor)
 - [KernelMemory.StructRAG](https://github.com/kbeaugrand/KernelMemory.StructRAG)Microsoft's Kernel Memory StructRAG implementation
 - [EFCore.SqlServer.VectorSearch](https://github.com/efcore/EFCore.SqlServer.VectorSearch)
+- [generative-ai](https://github.com/mscraftsman/generative-ai) Access and integrate the Gemini API into your .NET applications. The packages support both Google AI Studio and Google Cloud Vertex AI
 
 ## Planners
 sequences of actions that Semantic Kernel can execute to achieve a goal, such as booking a flight or writing some content.
