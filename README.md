@@ -211,6 +211,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [eShopLite-SemanticSearch-AzureAISearch](https://github.com/Azure-Samples/eShopLite-SemanticSearch-AzureAISearch) eShopLite - Semantic Search - Azure AI Search is a reference .NET application implementing an eCommerce site with Search features using Keyword Search with SQL queries, and Semantic Search with Vector Database and Azure AI Search
 - [Document-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/Document-Knowledge-Mining-Solution-Accelerator) This solution accelerator helps you ingest, extract, and classify content from a high volume of assets to gain deeper insights and generate relevant suggestions for quick and easy reasoning
 - [KernelMemory.Evaluation](https://github.com/kbeaugrand/KernelMemory.Evaluation) This project is an implementation of RAGAS: Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
+- [KernelMemory.StructRAG](https://github.com/kbeaugrand/KernelMemory.StructRAG) Microsoft's Kernel Memory StructRAG implementation
 
 ## Learn
 
