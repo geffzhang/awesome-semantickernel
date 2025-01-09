@@ -212,7 +212,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Document-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/Document-Knowledge-Mining-Solution-Accelerator) This solution accelerator helps you ingest, extract, and classify content from a high volume of assets to gain deeper insights and generate relevant suggestions for quick and easy reasoning
 - [KernelMemory.Evaluation](https://github.com/kbeaugrand/KernelMemory.Evaluation) This project is an implementation of RAGAS: Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
 - [KernelMemory.StructRAG](https://github.com/kbeaugrand/KernelMemory.StructRAG) Microsoft's Kernel Memory StructRAG implementation
-
+- [AIAgent](https://github.com/AMDevIT/AIAgent) AI Agent is a flexible and modular framework designed to extend the capabilities of AI systems. It provides tools for building intelligent and autonomous agents with seamless integration into existing infrastructures.
 ## Learn
 
 ### Notebooks
