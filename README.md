@@ -335,6 +335,9 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [Introducing new Ollama Connector for Local Models](https://devblogs.microsoft.com/semantic-kernel/introducing-new-ollama-connector-for-local-models/)
 - [How to create a GenAI agent using Semantic Kernel](https://www.nearform.com/digital-community/how-to-create-a-genai-agent-using-semantic-kernel/)
 
+### Books
+- [Microsoft Semantic Kernel in Action](https://www.manning.com/books/microsoft-semantic-kernel-in-action)
+
 ## Complement to this list
 
 - [Open LLMs](https://github.com/eugeneyan/open-llms): A list of open LLMs available for commercial use ![GitHub Repo stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social)
