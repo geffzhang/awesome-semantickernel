@@ -213,6 +213,7 @@ profiles that define the preferences and personality of Semantic Kernel, such as
 - [KernelMemory.Evaluation](https://github.com/kbeaugrand/KernelMemory.Evaluation) This project is an implementation of RAGAS: Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
 - [KernelMemory.StructRAG](https://github.com/kbeaugrand/KernelMemory.StructRAG) Microsoft's Kernel Memory StructRAG implementation
 - [AIAgent](https://github.com/AMDevIT/AIAgent) AI Agent is a flexible and modular framework designed to extend the capabilities of AI systems. It provides tools for building intelligent and autonomous agents with seamless integration into existing infrastructures.
+- [Syncfusion Semantic Kernel Blazor](https://github.com/peopleworks/SyncfusionSemanticKernelBlazor) Integrate AI-assisted document interaction into your Blazor applications! This project combines a powerful PDF viewer with advanced AI features to provide a robust and interactive document management system.
 ## Learn
 
 ### Notebooks
